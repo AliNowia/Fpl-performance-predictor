@@ -107,5 +107,5 @@ def run_app(pages, driver):
 
     # save dataset into csv file
     pd.DataFrame(ds).to_csv(
-        f'{pages}_page{'s' if pages > 1 else ''}_stats.csv')
+        f'data/{pages}_page{'s' if pages > 1 else ''}_stats.csv')
     driver.quit()
