@@ -6,7 +6,7 @@ This data is players' performance in the last 3 seasons (24/25, 23/24, 22/23) wi
 
 Machine learning model is not yet integrated but will be soon.
 
-## prerequisites
+## Prerequisites
 
 - Python
 - Chrome Webdriver
@@ -27,8 +27,13 @@ How many pages to collect data ? [1 - 23]
 input: <your-input>
 ```
 
+## Performance
+- Worst case (23 pages) takes about 10 mins.
+- Best case (1 page) takes about 35 secs.
+
 ## Checklist (todo list)
 - ✅ Web-scraping (collect data from site)
 - ⏸️ Preprocessing
 - ⏸️ Feature Engineering
 - ⏸️ Machine learning model
+
