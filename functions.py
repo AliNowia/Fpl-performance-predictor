@@ -2,24 +2,24 @@ import pandas as pd
 import time
 
 ds = {
-    'role': [],
-    'name': [],
-    'club': [],
     'season': [],
-    'points': [],
+    'name': [],
+    'role': [],
+    'club': [],
     'games-started': [],
     'minutes-played': [],
-    'goals-scored': [],
-    'assists': [],
     'clean-sheets': [],
     'goals-conceded': [],
     'defensive-contribution': [],
-    'own-goals': [],
-    'penalties-saved': [],
-    'saves': [],
     'bonus': [],
-    'red-cards': [],
     'ict-index': [],
+    'saves': [],
+    'assists': [],
+    'penalties-saved': [],
+    'points': [],
+    'red-cards': [],
+    'own-goals': [],
+    'goals-scored': [],
     'current-price': []
 }
 
