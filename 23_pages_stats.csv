@@ -1,0 +1,1324 @@
+,role,name,club,season,points,games-started,minutes-played,goals-scored,assists,clean-sheets,goals-conceded,defensive-contribution,own-goals,penalties-saved,saves,bonus,red-cards,ict-index,current-price
+0,Midfielder,Mohamed Salah,Liverpool,2024/25,344,38,3374,29,18,15,40,136,0,0,0,55,0,476.0,£14.5m
+1,Midfielder,Mohamed Salah,Liverpool,2023/24,211,28,2531,18,12,8,30,0,0,0,0,24,0,346.0,£14.5m
+2,Midfielder,Mohamed Salah,Liverpool,2022/23,239,37,3290,19,13,13,45,0,0,0,0,23,0,365.6,£14.5m
+3,Midfielder,Bryan Mbeumo,Man Utd,2024/25,236,38,3415,20,9,9,55,273,0,0,0,29,0,340.8,£8.0m
+4,Midfielder,Bryan Mbeumo,Man Utd,2023/24,127,22,1957,9,7,5,31,0,0,0,0,12,0,170.1,£8.0m
+5,Midfielder,Bryan Mbeumo,Man Utd,2022/23,150,36,2905,9,9,10,39,0,0,0,0,19,0,239.5,£8.0m
+6,Midfielder,Cole Palmer,Chelsea,2024/25,214,36,3193,15,10,10,41,171,0,0,0,35,0,338.0,£10.5m
+7,Midfielder,Cole Palmer,Chelsea,2023/24,244,29,2617,22,13,7,46,0,0,0,0,32,0,327.8,£10.5m
+8,Midfielder,Cole Palmer,Chelsea,2022/23,19,2,358,0,1,1,4,0,0,0,0,0,0,31.9,£10.5m
+9,Forward,Alexander Isak,Newcastle,2024/25,211,34,2758,23,6,12,41,89,0,0,0,36,0,292.7,£10.5m
+10,Forward,Alexander Isak,Newcastle,2023/24,172,27,2253,21,4,7,41,0,0,0,0,23,0,229.3,£10.5m
+11,Forward,Alexander Isak,Newcastle,2022/23,100,17,1520,10,2,4,20,0,0,0,0,18,0,145.2,£10.5m
+12,Forward,Chris Wood,Nott'm Forest,2024/25,200,35,2958,20,3,15,37,96,0,0,0,41,0,205.6,£7.5m
+13,Forward,Chris Wood,Nott'm Forest,2023/24,131,20,1801,14,1,2,34,0,0,0,0,22,0,167.4,£7.5m
+14,Forward,Chris Wood,Nott'm Forest,2022/23,53,9,807,3,0,4,9,0,0,0,0,7,0,39.3,£7.5m
+15,Forward,Jarrod Bowen,West Ham,2024/25,193,34,2974,13,11,8,50,211,0,0,0,21,0,271.9,£8.0m
+16,Forward,Jarrod Bowen,West Ham,2023/24,182,34,3020,16,6,5,63,0,0,0,0,14,0,247.8,£8.0m
+17,Forward,Jarrod Bowen,West Ham,2022/23,145,36,3232,6,9,9,50,0,0,0,0,9,0,241.8,£8.0m
+18,Forward,Ollie Watkins,Aston Villa,2024/25,186,31,2593,16,8,10,40,78,0,0,0,32,0,223.8,£9.0m
+19,Forward,Ollie Watkins,Aston Villa,2023/24,228,37,3222,19,18,7,56,0,0,0,0,29,0,302.8,£9.0m
+20,Forward,Ollie Watkins,Aston Villa,2022/23,175,36,3129,15,8,13,40,0,0,0,0,25,0,256.7,£9.0m
+21,Forward,Yoane Wissa,Brentford,2024/25,185,34,2921,18,6,9,45,138,0,0,0,32,0,242.4,£7.5m
+22,Forward,Yoane Wissa,Brentford,2023/24,131,29,2488,12,4,11,40,0,0,0,0,15,0,173.2,£7.5m
+23,Forward,Yoane Wissa,Brentford,2022/23,111,16,1587,7,4,7,17,0,0,0,0,6,0,96.8,£7.5m
+24,Midfielder,Luis Díaz Marulanda,Liverpool,2024/25,183,28,2393,13,7,15,21,158,0,0,0,21,0,246.4,£8.0m
+25,Midfielder,Luis Díaz Marulanda,Liverpool,2023/24,142,32,2625,8,7,7,33,0,0,0,0,9,0,264.6,£8.0m
+26,Midfielder,Luis Díaz Marulanda,Liverpool,2022/23,62,11,991,4,2,4,11,0,0,0,0,7,0,85.0,£8.0m
+27,Forward,Erling Haaland,Man City,2024/25,181,31,2736,22,3,10,38,73,0,0,0,26,0,281.8,£14.0m
+28,Forward,Erling Haaland,Man City,2023/24,217,29,2553,27,8,11,25,0,0,0,0,29,0,303.3,£14.0m
+29,Forward,Erling Haaland,Man City,2022/23,272,33,2767,36,9,13,26,0,0,0,0,40,0,358.1,£14.0m
+30,Midfielder,Matheus Santos Carneiro da Cunha,Man Utd,2024/25,178,29,2596,15,7,7,54,200,0,0,0,41,0,272.2,£8.0m
+31,Midfielder,Matheus Santos Carneiro da Cunha,Man Utd,2023/24,135,29,2438,12,7,6,46,0,0,0,0,15,0,206.4,£8.0m
+32,Midfielder,Matheus Santos Carneiro da Cunha,Man Utd,2022/23,39,12,961,2,0,5,12,0,0,0,0,6,0,45.1,£8.0m
+33,Midfielder,Bruno Borges Fernandes,Man Utd,2024/25,174,35,3017,8,12,10,47,359,0,0,0,28,2,300.8,£9.0m
+34,Midfielder,Bruno Borges Fernandes,Man Utd,2023/24,166,35,3118,10,9,7,52,0,0,0,0,24,0,351.3,£9.0m
+35,Midfielder,Bruno Borges Fernandes,Man Utd,2022/23,176,37,3317,8,9,18,39,0,0,0,0,23,0,359.3,£9.0m
+36,Midfielder,Antoine Semenyo,Bournemouth,2024/25,165,36,3202,11,7,11,41,267,0,0,0,14,0,267.8,£7.0m
+37,Midfielder,Antoine Semenyo,Bournemouth,2023/24,107,25,2099,8,4,8,33,0,0,0,0,14,0,166.8,£7.0m
+38,Midfielder,Antoine Semenyo,Bournemouth,2022/23,18,2,250,1,0,0,6,0,0,0,0,1,0,10.7,£7.0m
+39,Midfielder,Morgan Rogers,Aston Villa,2024/25,161,37,3115,8,11,10,40,193,0,0,0,15,0,214.3,£7.0m
+40,Midfielder,Morgan Rogers,Aston Villa,2023/24,35,8,636,3,1,2,13,0,0,0,0,0,0,44.5,£7.0m
+41,Midfielder,Jacob Murphy,Newcastle,2024/25,159,31,2356,8,13,11,31,168,0,0,0,11,0,185.6,£6.5m
+42,Midfielder,Jacob Murphy,Newcastle,2023/24,82,14,1184,3,8,5,21,0,0,0,0,4,0,110.0,£6.5m
+43,Midfielder,Jacob Murphy,Newcastle,2022/23,78,14,1230,4,2,3,12,0,0,0,0,2,0,98.9,£6.5m
+44,Midfielder,Justin Kluivert,Bournemouth,2024/25,158,29,2339,12,6,13,29,138,0,0,0,14,0,212.0,£7.0m
+45,Midfielder,Justin Kluivert,Bournemouth,2023/24,100,26,1910,7,1,11,23,0,0,0,0,2,0,126.4,£7.0m
+46,Goalkeeper,Jordan Pickford,Everton,2024/25,158,38,3420,0,1,12,44,0,0,2,122,15,0,107.0,£5.5m
+47,Goalkeeper,Jordan Pickford,Everton,2023/24,153,38,3420,0,0,13,51,0,1,0,121,22,0,101.3,£5.5m
+48,Goalkeeper,Jordan Pickford,Everton,2022/23,124,37,3330,0,1,8,57,0,0,1,124,10,0,102.0,£5.5m
+49,Midfielder,Alex Iwobi,Fulham,2024/25,156,35,2981,9,6,6,45,227,0,0,0,16,0,243.0,£6.5m
+50,Midfielder,Alex Iwobi,Fulham,2023/24,102,27,2331,5,2,7,41,0,0,0,0,9,0,175.9,£6.5m
+51,Midfielder,Alex Iwobi,Fulham,2022/23,126,38,3379,2,8,9,56,0,0,0,0,9,0,201.3,£6.5m
+52,Midfielder,Morgan Gibbs-White,Nott'm Forest,2024/25,154,34,2806,7,11,13,34,227,0,0,0,18,1,210.6,£7.5m
+53,Midfielder,Morgan Gibbs-White,Nott'm Forest,2023/24,142,35,3156,5,12,5,59,0,0,0,0,13,0,235.6,£7.5m
+54,Midfielder,Morgan Gibbs-White,Nott'm Forest,2022/23,145,36,3151,5,12,8,61,0,0,0,0,11,0,221.8,£7.5m
+55,Defender,Joško Gvardiol,Man City,2024/25,153,36,3278,5,0,13,41,233,0,0,0,15,0,185.0,£6.0m
+56,Defender,Joško Gvardiol,Man City,2023/24,123,26,2327,4,2,9,23,0,0,0,0,12,0,129.7,£6.0m
+57,Midfielder,Anthony Elanga,Newcastle,2024/25,153,31,2496,6,11,12,35,135,0,0,0,15,0,199.8,£7.0m
+58,Midfielder,Anthony Elanga,Newcastle,2023/24,119,25,2424,5,9,2,47,0,0,0,0,5,0,159.2,£7.0m
+59,Midfielder,Anthony Elanga,Newcastle,2022/23,23,5,417,0,1,2,2,0,0,0,0,0,0,28.7,£7.0m
+60,Midfielder,Leandro Trossard,Arsenal,2024/25,152,28,2546,8,8,11,27,158,0,0,0,18,1,202.1,£7.0m
+61,Midfielder,Leandro Trossard,Arsenal,2023/24,138,18,1633,12,2,12,10,0,0,0,0,11,0,169.5,£7.0m
+62,Midfielder,Leandro Trossard,Arsenal,2022/23,154,26,2237,8,13,8,38,0,0,0,0,8,0,225.2,£7.0m
+63,Forward,Jean-Philippe Mateta,Crystal Palace,2024/25,150,33,2642,14,2,9,37,114,0,0,0,27,0,187.3,£7.5m
+64,Forward,Jean-Philippe Mateta,Crystal Palace,2023/24,165,25,2274,16,7,8,44,0,0,0,0,22,0,191.9,£7.5m
+65,Forward,Jean-Philippe Mateta,Crystal Palace,2022/23,41,6,748,2,0,3,10,0,0,0,0,3,0,42.5,£7.5m
+66,Goalkeeper,Matz Sels,Nott'm Forest,2024/25,150,38,3420,0,1,13,46,0,0,0,120,11,0,96.7,£5.0m
+67,Goalkeeper,Matz Sels,Nott'm Forest,2023/24,34,16,1440,0,0,1,27,0,0,0,37,1,0,30.3,£5.0m
+68,Midfielder,Kevin Schade,Brentford,2024/25,149,26,2281,11,4,10,34,161,0,0,0,12,0,183.3,£7.0m
+69,Midfielder,Kevin Schade,Brentford,2023/24,33,3,327,2,2,1,5,0,0,0,0,2,0,26.2,£7.0m
+70,Midfielder,Kevin Schade,Brentford,2022/23,29,7,723,0,1,3,7,0,0,0,0,0,0,39.8,£7.0m
+71,Midfielder,Ismaïla Sarr,Crystal Palace,2024/25,149,30,2708,8,7,10,39,190,0,0,0,14,0,215.9,£6.5m
+72,Midfielder,Ismaïla Sarr,Crystal Palace,2021/22,81,0,1862,5,2,2,40,0,0,0,0,9,0,118.0,£6.5m
+73,Midfielder,Ismaïla Sarr,Crystal Palace,2019/20,107,0,2023,5,7,6,35,0,0,0,0,7,0,142.2,£6.5m
+74,Midfielder,Eberechi Eze,Crystal Palace,2024/25,148,31,2588,8,8,10,34,204,0,0,0,15,0,222.4,£7.5m
+75,Midfielder,Eberechi Eze,Crystal Palace,2023/24,136,24,2054,11,5,8,28,0,0,0,0,11,0,228.7,£7.5m
+76,Midfielder,Eberechi Eze,Crystal Palace,2022/23,159,30,2631,10,5,9,35,0,0,0,0,21,0,217.0,£7.5m
+77,Forward,Raúl Jiménez Rodríguez,Fulham,2024/25,147,30,2486,12,3,7,37,153,0,0,0,26,0,199.7,£6.5m
+78,Forward,Raúl Jiménez Rodríguez,Fulham,2023/24,72,18,1390,7,0,4,29,0,0,0,0,13,1,95.1,£6.5m
+79,Forward,Raúl Jiménez Rodríguez,Fulham,2022/23,29,8,839,0,2,2,18,0,0,0,0,0,0,46.7,£6.5m
+80,Midfielder,Mitoma Kaoru,Brighton,2024/25,145,28,2597,10,5,6,40,168,0,0,0,12,0,210.7,£6.5m
+81,Midfielder,Mitoma Kaoru,Brighton,2023/24,74,15,1485,3,7,1,27,0,0,0,0,7,0,134.0,£6.5m
+82,Midfielder,Mitoma Kaoru,Brighton,2022/23,138,24,2311,7,9,8,35,0,0,0,0,11,0,200.4,£6.5m
+83,Defender,Nikola Milenković,Nott'm Forest,2024/25,145,37,3330,5,2,13,45,310,0,0,0,2,0,127.2,£5.5m
+84,Forward,Jørgen Strand Larsen,Wolves,2024/25,145,30,2587,14,4,7,52,91,0,0,0,17,0,179.5,£6.5m
+85,Defender,Virgil van Dijk,Liverpool,2024/25,143,37,3330,3,1,14,38,300,0,0,0,8,0,143.7,£6.0m
+86,Defender,Virgil van Dijk,Liverpool,2023/24,117,36,3177,2,2,9,40,0,0,0,0,8,1,153.8,£6.0m
+87,Defender,Virgil van Dijk,Liverpool,2022/23,127,32,2835,3,1,11,36,0,0,0,0,13,0,125.4,£6.0m
+88,Midfielder,Dominik Szoboszlai,Liverpool,2024/25,143,29,2485,6,10,12,29,199,0,0,0,14,0,198.1,£6.5m
+89,Midfielder,Dominik Szoboszlai,Liverpool,2023/24,99,25,2102,3,4,8,23,0,0,0,0,7,0,162.8,£6.5m
+90,Goalkeeper,David Raya Martín,Arsenal,2024/25,142,38,3420,0,0,13,34,0,0,0,86,10,0,76.7,£5.5m
+91,Goalkeeper,David Raya Martín,Arsenal,2023/24,135,32,2880,0,0,16,24,0,0,1,46,6,0,41.1,£5.5m
+92,Goalkeeper,David Raya Martín,Arsenal,2022/23,166,38,3420,0,0,12,46,0,1,0,154,20,0,117.3,£5.5m
+93,Defender,Daniel Muñoz Mejía,Crystal Palace,2024/25,142,37,3229,4,6,11,46,267,0,0,0,9,0,197.6,£5.5m
+94,Defender,Daniel Muñoz Mejía,Crystal Palace,2023/24,56,16,1440,0,4,5,22,0,0,0,0,3,0,71.7,£5.5m
+95,Midfielder,Brennan Johnson,Spurs,2024/25,137,24,2171,11,6,2,38,119,0,0,0,13,0,161.0,£7.0m
+96,Midfielder,Brennan Johnson,Spurs,2023/24,131,26,2317,5,12,5,42,0,0,0,0,9,0,196.3,£7.0m
+97,Midfielder,Brennan Johnson,Spurs,2022/23,122,33,2930,8,5,7,54,0,0,0,0,15,0,158.1,£7.0m
+98,Midfielder,Enzo Fernández,Chelsea,2024/25,135,32,2943,6,8,10,37,261,0,0,0,11,0,241.3,£6.5m
+99,Midfielder,Enzo Fernández,Chelsea,2023/24,77,26,2208,3,3,5,47,0,0,0,0,4,0,146.3,£6.5m
+100,Midfielder,Enzo Fernández,Chelsea,2022/23,42,18,1547,0,2,3,25,0,0,0,0,1,0,72.6,£6.5m
+101,Goalkeeper,Dean Henderson,Crystal Palace,2024/25,135,38,3420,0,0,11,51,0,0,1,104,8,0,88.6,£5.0m
+102,Goalkeeper,Dean Henderson,Crystal Palace,2023/24,48,18,1620,0,0,4,30,0,2,0,58,2,0,43.7,£5.0m
+103,Goalkeeper,Dean Henderson,Crystal Palace,2022/23,82,18,1620,0,0,6,31,0,0,2,54,12,0,47.5,£5.0m
+104,Midfielder,Bruno Guimarães Rodriguez Moura,Newcastle,2024/25,135,38,3273,5,6,13,44,350,0,0,0,10,0,197.5,£6.5m
+105,Midfielder,Bruno Guimarães Rodriguez Moura,Newcastle,2023/24,153,37,3264,7,9,10,60,0,0,0,0,15,0,241.0,£6.5m
+106,Midfielder,Bruno Guimarães Rodriguez Moura,Newcastle,2022/23,107,32,2727,4,5,12,25,0,0,0,0,5,0,156.6,£6.5m
+107,Defender,Milos Kerkez,Liverpool,2024/25,134,38,3336,2,6,9,45,207,0,0,0,10,0,157.3,£6.0m
+108,Defender,Milos Kerkez,Liverpool,2023/24,59,22,1966,0,2,6,37,0,1,0,0,1,1,67.7,£6.0m
+109,Defender,Marc Cucurella Saseta,Chelsea,2024/25,133,33,2988,5,2,9,38,191,0,0,0,14,1,137.9,£6.0m
+110,Defender,Marc Cucurella Saseta,Chelsea,2023/24,44,20,1783,0,3,4,33,0,1,0,0,3,0,79.3,£6.0m
+111,Defender,Marc Cucurella Saseta,Chelsea,2022/23,65,21,1669,0,2,6,20,0,0,0,0,1,0,65.9,£6.0m
+112,Midfielder,James Maddison,Spurs,2024/25,133,21,1799,9,8,6,32,140,0,0,0,15,0,187.8,£7.0m
+113,Midfielder,James Maddison,Spurs,2023/24,117,26,2137,4,11,7,31,0,0,0,0,9,0,221.4,£7.0m
+114,Midfielder,James Maddison,Spurs,2022/23,135,28,2479,10,9,4,54,0,0,0,0,9,0,259.7,£7.0m
+115,Forward,Liam Delap,Chelsea,2024/25,132,32,2587,12,2,3,58,109,0,0,0,22,0,157.5,£6.5m
+116,Forward,Liam Delap,Chelsea,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£6.5m
+117,Forward,Liam Delap,Chelsea,2021/22,1,0,8,0,0,0,0,0,0,0,0,0,0,0.1,£6.5m
+118,Midfielder,Mikkel Damsgaard,Brentford,2024/25,131,34,2911,2,10,11,41,321,0,0,0,10,0,205.9,£6.0m
+119,Midfielder,Mikkel Damsgaard,Brentford,2023/24,45,7,829,0,4,5,9,0,0,0,0,0,0,44.7,£6.0m
+120,Midfielder,Mikkel Damsgaard,Brentford,2022/23,33,9,970,0,0,3,14,0,0,0,0,0,0,46.5,£6.0m
+121,Defender,William Saliba,Arsenal,2024/25,130,35,3039,2,0,12,29,216,0,0,0,14,1,94.2,£6.0m
+122,Defender,William Saliba,Arsenal,2023/24,164,38,3420,2,1,18,29,0,0,0,0,13,0,99.1,£6.0m
+123,Defender,William Saliba,Arsenal,2022/23,117,27,2415,2,1,12,25,0,1,0,0,14,0,74.5,£6.0m
+124,Midfielder,Harvey Barnes,Newcastle,2024/25,130,17,1746,9,5,6,23,90,0,0,0,13,0,163.1,£6.5m
+125,Midfielder,Harvey Barnes,Newcastle,2023/24,64,7,788,5,3,2,10,0,0,0,0,3,0,79.5,£6.5m
+126,Midfielder,Harvey Barnes,Newcastle,2022/23,138,32,2709,13,2,6,51,0,0,0,0,0,0,187.7,£6.5m
+127,Defender,Murillo Costa dos Santos,Nott'm Forest,2024/25,130,36,3188,2,0,12,44,376,0,0,0,18,0,134.0,£5.5m
+128,Defender,Murillo Costa dos Santos,Nott'm Forest,2023/24,58,32,2790,0,2,3,56,0,1,0,0,1,0,95.8,£5.5m
+129,Midfielder,Amad Diallo,Man Utd,2024/25,129,20,1898,8,8,7,30,176,0,0,0,17,0,193.8,£6.5m
+130,Midfielder,Amad Diallo,Man Utd,2023/24,23,3,385,1,1,1,6,0,0,0,0,3,0,35.2,£6.5m
+131,Midfielder,Amad Diallo,Man Utd,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£6.5m
+132,Midfielder,Son Heung-min,Spurs,2024/25,129,24,2106,7,10,4,35,123,0,0,0,12,0,207.2,£8.5m
+133,Midfielder,Son Heung-min,Spurs,2023/24,213,34,2934,17,10,8,51,0,1,0,0,25,0,304.7,£8.5m
+134,Midfielder,Son Heung-min,Spurs,2022/23,152,33,2886,10,6,9,55,0,0,0,0,8,0,250.2,£8.5m
+135,Forward,Francisco Evanilson de Lima Barbosa,Bournemouth,2024/25,128,28,2317,10,5,11,30,107,0,0,0,20,1,174.8,£7.0m
+136,Defender,Ola Aina,Nott'm Forest,2024/25,128,35,2996,2,1,12,39,206,0,0,0,15,0,94.1,£5.0m
+137,Defender,Ola Aina,Nott'm Forest,2023/24,45,20,1690,1,1,2,39,0,0,0,0,2,0,54.4,£5.0m
+138,Defender,Ola Aina,Nott'm Forest,2020/21,102,0,2664,2,1,8,36,0,0,0,0,8,0,87.7,£5.0m
+139,Midfielder,Bukayo Saka,Arsenal,2024/25,127,20,1724,6,11,7,21,108,0,0,0,18,0,227.9,£10.0m
+140,Midfielder,Bukayo Saka,Arsenal,2023/24,226,35,2922,16,12,16,27,0,0,0,0,29,0,375.7,£10.0m
+141,Midfielder,Bukayo Saka,Arsenal,2022/23,202,37,3183,14,12,12,42,0,0,0,0,19,0,333.4,£10.0m
+142,Midfielder,Declan Rice,Arsenal,2024/25,127,33,2823,4,7,11,29,297,0,0,0,17,1,208.8,£6.5m
+143,Midfielder,Declan Rice,Arsenal,2023/24,165,37,3225,7,9,17,28,0,0,0,0,17,0,215.9,£6.5m
+144,Midfielder,Declan Rice,Arsenal,2022/23,116,36,3272,4,3,9,50,0,0,0,0,12,0,155.5,£6.5m
+145,Defender,Nathan Collins,Brentford,2024/25,127,38,3420,2,7,8,57,351,0,0,0,11,0,149.6,£5.0m
+146,Defender,Nathan Collins,Brentford,2023/24,84,29,2649,1,1,7,51,0,0,0,0,8,0,98.7,£5.0m
+147,Defender,Nathan Collins,Brentford,2022/23,49,19,1811,0,0,4,37,0,0,0,0,6,1,51.5,£5.0m
+148,Midfielder,Cody Gakpo,Liverpool,2024/25,127,23,1921,10,5,5,25,136,0,0,0,22,0,180.3,£7.5m
+149,Midfielder,Cody Gakpo,Liverpool,2023/24,106,17,1633,8,5,5,20,0,0,0,0,12,0,157.1,£7.5m
+150,Midfielder,Cody Gakpo,Liverpool,2022/23,90,17,1455,7,3,6,19,0,0,0,0,4,0,112.3,£7.5m
+151,Goalkeeper,Robert Lynch Sánchez,Chelsea,2024/25,126,32,2880,0,0,10,34,0,0,1,95,11,0,77.5,£5.0m
+152,Goalkeeper,Robert Lynch Sánchez,Chelsea,2023/24,59,16,1433,0,0,3,25,0,0,1,53,7,0,45.2,£5.0m
+153,Goalkeeper,Robert Lynch Sánchez,Chelsea,2022/23,82,23,2070,0,0,6,30,0,0,1,48,10,0,43.9,£5.0m
+154,Forward,João Pedro Junqueira de Jesus,Chelsea,2024/25,126,23,1946,10,6,6,28,96,0,0,0,26,1,166.0,£7.5m
+155,Forward,João Pedro Junqueira de Jesus,Chelsea,2023/24,104,19,2037,9,3,5,38,0,0,0,0,12,0,213.4,£7.5m
+156,Forward,João Pedro Junqueira de Jesus,Chelsea,2021/22,60,0,1634,3,1,2,35,0,0,0,0,4,0,123.7,£7.5m
+157,Midfielder,Tomáš Souček,West Ham,2024/25,126,30,2563,9,2,7,44,234,0,0,0,15,0,154.0,£6.0m
+158,Midfielder,Tomáš Souček,West Ham,2023/24,116,34,2867,7,2,5,64,0,0,0,0,9,0,150.3,£6.0m
+159,Midfielder,Tomáš Souček,West Ham,2022/23,100,32,2811,2,4,8,42,0,0,0,0,6,0,127.1,£6.0m
+160,Midfielder,Gabriel Martinelli Silva,Arsenal,2024/25,125,25,2284,8,4,10,25,122,0,0,0,6,0,206.1,£7.0m
+161,Midfielder,Gabriel Martinelli Silva,Arsenal,2023/24,118,24,2010,6,5,10,23,0,0,0,0,6,0,200.8,£7.0m
+162,Midfielder,Gabriel Martinelli Silva,Arsenal,2022/23,198,34,2789,15,9,14,33,0,0,0,0,18,0,298.1,£7.0m
+163,Forward,Danny Welbeck,Brighton,2024/25,125,24,2109,10,5,7,37,95,0,0,0,21,0,155.8,£6.5m
+164,Forward,Danny Welbeck,Brighton,2023/24,79,21,1687,5,4,8,28,0,0,0,0,5,0,114.0,£6.5m
+165,Forward,Danny Welbeck,Brighton,2022/23,91,21,1844,6,5,6,28,0,0,0,0,5,0,155.4,£6.5m
+166,Defender,Rayan Aït-Nouri,Man City,2024/25,125,37,3112,4,7,7,67,187,0,0,0,13,1,191.0,£6.0m
+167,Defender,Rayan Aït-Nouri,Man City,2023/24,77,29,2327,2,3,3,43,0,0,0,0,6,0,107.7,£6.0m
+168,Defender,Rayan Aït-Nouri,Man City,2022/23,41,9,1067,1,0,4,18,0,1,0,0,0,0,48.9,£6.0m
+169,Midfielder,Anthony Gordon,Newcastle,2024/25,124,28,2428,6,6,10,33,143,0,0,0,9,0,196.8,£7.5m
+170,Midfielder,Anthony Gordon,Newcastle,2023/24,183,34,2896,11,16,12,48,0,0,0,0,14,1,256.7,£7.5m
+171,Midfielder,Anthony Gordon,Newcastle,2022/23,68,16,1574,4,0,4,18,0,0,0,0,5,0,108.8,£7.5m
+172,Defender,Tyrick Mitchell,Crystal Palace,2024/25,123,37,3090,0,6,12,46,217,0,0,0,4,0,136.2,£5.0m
+173,Defender,Tyrick Mitchell,Crystal Palace,2023/24,119,37,3204,2,3,10,55,0,0,0,0,10,0,127.4,£5.0m
+174,Defender,Tyrick Mitchell,Crystal Palace,2022/23,93,34,2889,0,2,8,40,0,0,0,0,7,1,89.0,£5.0m
+175,Midfielder,Alexis Mac Allister,Liverpool,2024/25,122,30,2597,5,6,14,24,300,0,0,0,8,0,174.1,£6.5m
+176,Midfielder,Alexis Mac Allister,Liverpool,2023/24,109,31,2600,5,5,6,34,0,0,0,0,12,1,166.2,£6.5m
+177,Midfielder,Alexis Mac Allister,Liverpool,2022/23,140,31,2882,10,2,10,45,0,1,0,0,18,0,221.3,£6.5m
+178,Midfielder,Youri Tielemans,Aston Villa,2024/25,121,35,3025,3,7,7,46,314,0,0,0,15,0,209.6,£6.0m
+179,Midfielder,Youri Tielemans,Aston Villa,2023/24,77,17,1613,2,6,4,27,0,0,0,0,2,0,83.3,£6.0m
+180,Midfielder,Youri Tielemans,Aston Villa,2022/23,86,27,2341,3,3,6,49,0,0,0,0,6,0,122.1,£6.0m
+181,Forward,Nicolas Jackson,Chelsea,2024/25,121,28,2220,10,6,11,24,90,0,0,0,17,1,187.4,£6.5m
+182,Forward,Nicolas Jackson,Chelsea,2023/24,142,31,2801,14,6,9,48,0,0,0,0,12,0,237.7,£6.5m
+183,Defender,Vitalii Mykolenko,Everton,2024/25,121,35,3082,1,3,11,39,252,0,0,0,9,0,115.2,£5.0m
+184,Defender,Vitalii Mykolenko,Everton,2023/24,101,28,2469,2,1,9,37,0,0,0,0,9,0,96.8,£5.0m
+185,Defender,Vitalii Mykolenko,Everton,2022/23,75,30,2653,0,1,7,46,0,0,0,0,4,0,93.4,£5.0m
+186,Midfielder,Noni Madueke,Arsenal,2024/25,120,27,2028,7,5,6,28,129,0,0,0,12,0,195.3,£7.0m
+187,Midfielder,Noni Madueke,Arsenal,2023/24,76,13,1044,5,3,4,19,0,0,0,0,7,0,102.8,£7.0m
+188,Midfielder,Noni Madueke,Arsenal,2022/23,26,7,639,1,0,0,13,0,0,0,0,2,0,55.0,£7.0m
+189,Goalkeeper,André Onana,Man Utd,2024/25,120,34,3060,0,0,9,44,0,0,1,90,8,0,74.7,£5.0m
+190,Goalkeeper,André Onana,Man Utd,2023/24,133,38,3420,0,0,9,58,0,0,0,149,10,0,120.2,£5.0m
+191,Defender,Fabian Schär,Newcastle,2024/25,118,33,2935,4,2,11,42,239,0,0,0,4,1,119.6,£5.5m
+192,Defender,Fabian Schär,Newcastle,2023/24,123,35,3055,4,3,9,58,0,0,0,0,12,0,127.4,£5.5m
+193,Defender,Fabian Schär,Newcastle,2022/23,139,36,3207,1,3,15,28,0,1,0,0,6,0,147.1,£5.5m
+194,Defender,Aaron Wan-Bissaka,West Ham,2024/25,118,35,3154,2,6,6,59,258,1,0,0,15,0,152.7,£4.5m
+195,Defender,Aaron Wan-Bissaka,West Ham,2023/24,47,20,1778,0,2,3,34,0,0,0,0,5,0,65.5,£4.5m
+196,Defender,Aaron Wan-Bissaka,West Ham,2022/23,67,16,1432,0,0,8,10,0,0,0,0,3,0,65.5,£4.5m
+197,Defender,Gabriel dos Santos Magalhães,Arsenal,2024/25,117,28,2363,3,2,10,22,159,0,0,0,9,0,108.2,£6.0m
+198,Defender,Gabriel dos Santos Magalhães,Arsenal,2023/24,149,34,3042,3,1,16,26,0,1,0,0,8,0,117.9,£6.0m
+199,Defender,Gabriel dos Santos Magalhães,Arsenal,2022/23,146,38,3409,3,0,14,43,0,0,0,0,15,0,127.7,£6.0m
+200,Midfielder,Dejan Kulusevski,Spurs,2024/25,117,27,2386,7,4,6,41,193,0,0,0,9,0,218.7,£6.5m
+201,Midfielder,Dejan Kulusevski,Spurs,2023/24,130,31,2759,8,3,8,46,0,0,0,0,14,0,260.1,£6.5m
+202,Midfielder,Dejan Kulusevski,Spurs,2022/23,96,23,2062,2,7,8,40,0,0,0,0,5,0,156.0,£6.5m
+203,Midfielder,Martin Ødegaard,Arsenal,2024/25,116,26,2321,3,9,11,21,127,0,0,0,11,0,198.8,£8.0m
+204,Midfielder,Martin Ødegaard,Arsenal,2023/24,186,35,3098,8,11,19,23,0,0,0,0,26,0,317.0,£8.0m
+205,Midfielder,Martin Ødegaard,Arsenal,2022/23,212,37,3132,15,8,13,38,0,0,0,0,30,0,304.9,£8.0m
+206,Defender,Marc Guéhi,Crystal Palace,2024/25,116,34,3059,3,2,11,42,268,3,0,0,11,1,131.0,£4.5m
+207,Defender,Marc Guéhi,Crystal Palace,2023/24,66,23,2020,0,1,6,32,0,0,0,0,6,0,56.1,£4.5m
+208,Defender,Marc Guéhi,Crystal Palace,2022/23,95,37,3330,1,0,9,46,0,1,0,0,2,0,106.7,£4.5m
+209,Goalkeeper,Bernd Leno,Fulham,2024/25,115,38,3420,0,2,5,54,0,0,1,110,5,0,98.6,£5.0m
+210,Goalkeeper,Bernd Leno,Fulham,2023/24,133,38,3420,0,0,10,61,0,1,0,134,15,0,106.7,£5.0m
+211,Goalkeeper,Bernd Leno,Fulham,2022/23,142,36,3240,0,0,8,51,0,0,1,144,17,0,116.6,£5.0m
+212,Defender,Dan Burn,Newcastle,2024/25,115,37,3330,1,1,13,45,286,2,0,0,9,0,115.8,£5.0m
+213,Defender,Dan Burn,Newcastle,2023/24,97,32,2725,2,2,8,45,0,0,0,0,4,0,109.7,£5.0m
+214,Defender,Dan Burn,Newcastle,2022/23,129,35,3109,1,0,14,30,0,0,0,0,6,0,105.3,£5.0m
+215,Defender,Jurriën Timber,Arsenal,2024/25,114,27,2415,1,3,11,21,125,0,0,0,9,0,94.2,£5.5m
+216,Defender,Jurriën Timber,Arsenal,2023/24,0,1,70,0,0,0,0,0,0,0,0,0,0,1.3,£5.5m
+217,Defender,Maxence Lacroix,Crystal Palace,2024/25,114,35,3116,1,2,11,45,347,0,0,0,9,0,111.4,£5.0m
+218,Midfielder,Iliman Ndiaye,Everton,2024/25,114,29,2426,9,0,15,24,265,0,0,0,21,0,142.0,£6.5m
+219,Midfielder,Iliman Ndiaye,Everton,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£6.5m
+220,Midfielder,Iliman Ndiaye,Everton,2020/21,1,0,11,0,0,0,1,0,0,0,0,0,0,0.3,£6.5m
+221,Midfielder,Emile Smith Rowe,Fulham,2024/25,114,25,2036,6,3,7,28,135,0,0,0,15,0,124.4,£6.0m
+222,Midfielder,Emile Smith Rowe,Fulham,2023/24,25,3,343,0,2,3,3,0,0,0,0,0,0,25.6,£6.0m
+223,Midfielder,Emile Smith Rowe,Fulham,2022/23,18,0,161,0,2,0,5,0,0,0,0,0,0,16.7,£6.0m
+224,Goalkeeper,Alisson Becker,Liverpool,2024/25,112,28,2508,0,0,10,29,0,0,0,78,9,0,64.0,£5.5m
+225,Goalkeeper,Alisson Becker,Liverpool,2023/24,107,28,2520,0,0,8,30,0,0,0,83,9,0,68.1,£5.5m
+226,Goalkeeper,Alisson Becker,Liverpool,2022/23,162,37,3330,0,1,14,43,0,0,1,107,15,0,97.6,£5.5m
+227,Goalkeeper,Emiliano Martínez Romero,Aston Villa,2024/25,111,37,3195,0,0,8,47,0,0,1,100,6,1,86.0,£5.0m
+228,Goalkeeper,Emiliano Martínez Romero,Aston Villa,2023/24,115,34,3015,0,0,8,48,0,2,0,95,19,0,82.2,£5.0m
+229,Goalkeeper,Emiliano Martínez Romero,Aston Villa,2022/23,135,36,3139,0,0,11,38,0,1,1,98,15,0,85.7,£5.0m
+230,Midfielder,Dango Ouattara,Bournemouth,2024/25,111,21,1998,7,4,7,23,196,0,0,0,7,0,187.2,£6.0m
+231,Midfielder,Dango Ouattara,Bournemouth,2023/24,56,12,1214,1,2,5,24,0,0,0,0,3,0,87.8,£6.0m
+232,Midfielder,Dango Ouattara,Bournemouth,2022/23,49,15,1239,1,3,1,23,0,0,0,0,4,0,82.5,£6.0m
+233,Goalkeeper,Ederson Santana de Moraes,Man City,2024/25,111,26,2320,0,4,10,26,0,0,0,54,9,0,60.9,£5.5m
+234,Goalkeeper,Ederson Santana de Moraes,Man City,2023/24,112,33,2785,0,0,11,27,0,0,0,57,5,0,56.0,£5.5m
+235,Goalkeeper,Ederson Santana de Moraes,Man City,2022/23,121,35,3150,0,1,11,32,0,0,0,46,8,0,52.1,£5.5m
+236,Midfielder,Bernardo Mota Veiga de Carvalho e Silva,Man City,2024/25,110,29,2667,4,4,10,36,223,0,0,0,13,0,193.6,£6.5m
+237,Midfielder,Bernardo Mota Veiga de Carvalho e Silva,Man City,2023/24,141,29,2576,6,9,10,26,0,0,0,0,20,0,228.0,£6.5m
+238,Midfielder,Bernardo Mota Veiga de Carvalho e Silva,Man City,2022/23,106,24,2196,4,6,7,24,0,0,0,0,9,0,143.1,£6.5m
+239,Defender,Levi Samuels Colwill,Chelsea,2024/25,109,35,3150,2,1,10,41,221,0,0,0,6,0,109.4,£5.0m
+240,Defender,Levi Samuels Colwill,Chelsea,2023/24,65,20,1794,1,1,5,26,0,0,0,0,4,0,67.2,£5.0m
+241,Defender,Levi Samuels Colwill,Chelsea,2022/23,46,13,1218,0,2,3,21,0,0,0,0,6,0,38.9,£5.0m
+242,Midfielder,Mateo Kovačić,Man City,2024/25,109,25,2194,6,3,10,29,228,0,0,0,13,1,139.1,£6.0m
+243,Midfielder,Mateo Kovačić,Man City,2023/24,59,16,1539,1,0,9,14,0,0,0,0,2,0,76.0,£6.0m
+244,Midfielder,Mateo Kovačić,Man City,2022/23,53,17,1699,1,2,4,25,0,0,0,0,2,0,77.9,£6.0m
+245,Defender,Neco Williams,Nott'm Forest,2024/25,109,28,2588,1,3,10,31,251,0,0,0,8,0,118.0,£5.0m
+246,Defender,Neco Williams,Nott'm Forest,2023/24,39,18,1630,0,1,1,33,0,0,0,0,2,0,72.8,£5.0m
+247,Defender,Neco Williams,Nott'm Forest,2022/23,54,20,1872,1,1,4,41,0,0,0,0,1,0,84.0,£5.0m
+248,Forward,Dominic Solanke-Mitchell,Spurs,2024/25,108,25,2199,9,5,4,43,89,1,0,0,7,0,142.1,£7.5m
+249,Forward,Dominic Solanke-Mitchell,Spurs,2023/24,175,37,3325,19,3,10,61,0,0,0,0,20,0,272.7,£7.5m
+250,Forward,Dominic Solanke-Mitchell,Spurs,2022/23,130,32,2865,6,10,8,52,0,0,0,0,14,0,185.7,£7.5m
+251,Midfielder,Christian Nørgaard,Arsenal,2024/25,107,34,2820,5,5,6,45,405,0,0,0,7,1,147.9,£5.5m
+252,Midfielder,Christian Nørgaard,Arsenal,2023/24,74,30,2504,2,1,6,51,0,0,0,0,3,0,121.8,£5.5m
+253,Midfielder,Christian Nørgaard,Arsenal,2022/23,71,21,1763,1,6,6,23,0,0,0,0,6,0,82.3,£5.5m
+254,Midfielder,Elliot Anderson,Nott'm Forest,2024/25,107,33,2726,2,6,13,37,407,0,0,0,8,0,155.6,£5.5m
+255,Midfielder,Elliot Anderson,Nott'm Forest,2023/24,42,10,1018,0,2,5,14,0,0,0,0,3,0,61.1,£5.5m
+256,Midfielder,Elliot Anderson,Nott'm Forest,2022/23,30,3,395,0,1,1,7,0,0,0,0,2,0,41.5,£5.5m
+257,Goalkeeper,Kepa Arrizabalaga Revuelta,Arsenal,2024/25,106,31,2790,0,0,8,39,0,0,0,97,7,0,75.8,£4.5m
+258,Goalkeeper,Kepa Arrizabalaga Revuelta,Arsenal,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+259,Goalkeeper,Kepa Arrizabalaga Revuelta,Arsenal,2022/23,118,29,2565,0,0,9,33,0,0,0,91,15,0,73.3,£4.5m
+260,Defender,Antonee Robinson,Fulham,2024/25,106,35,3166,0,10,5,49,289,0,0,0,8,0,185.5,£5.0m
+261,Defender,Antonee Robinson,Fulham,2023/24,104,37,3266,0,6,9,60,0,2,0,0,8,0,158.6,£5.0m
+262,Defender,Antonee Robinson,Fulham,2022/23,93,35,3088,0,2,9,44,0,0,0,0,5,0,106.3,£5.0m
+263,Defender,Ibrahima Konaté,Liverpool,2024/25,106,30,2561,1,2,11,28,197,0,0,0,4,0,87.6,£5.5m
+264,Defender,Ibrahima Konaté,Liverpool,2023/24,56,17,1570,0,0,6,19,0,0,0,0,2,1,58.5,£5.5m
+265,Defender,Ibrahima Konaté,Liverpool,2022/23,49,17,1551,0,0,7,22,0,1,0,0,0,0,46.8,£5.5m
+266,Midfielder,Sávio Moreira de Oliveira,Man City,2024/25,106,21,1760,1,11,8,25,119,0,0,0,15,0,177.3,£7.0m
+267,Midfielder,Alejandro Garnacho Ferreyra,Man Utd,2024/25,106,23,2188,6,4,5,36,161,0,0,0,7,0,188.3,£6.5m
+268,Midfielder,Alejandro Garnacho Ferreyra,Man Utd,2023/24,131,30,2564,7,7,8,39,0,0,0,0,7,0,224.3,£6.5m
+269,Midfielder,Alejandro Garnacho Ferreyra,Man Utd,2022/23,39,5,557,3,2,0,13,0,0,0,0,0,0,50.7,£6.5m
+270,Midfielder,Sandro Tonali,Newcastle,2024/25,106,28,2625,4,2,11,34,303,0,0,0,10,0,133.5,£5.5m
+271,Midfielder,Sandro Tonali,Newcastle,2023/24,16,5,437,1,0,1,5,0,0,0,0,0,0,23.8,£5.5m
+272,Midfielder,Mohammed Kudus,Spurs,2024/25,106,31,2589,5,4,7,46,189,0,0,0,5,1,177.5,£6.5m
+273,Midfielder,Mohammed Kudus,Spurs,2023/24,137,27,2485,8,9,3,61,0,0,0,0,13,0,170.8,£6.5m
+274,Defender,James Tarkowski,Everton,2024/25,105,33,2922,1,1,10,38,356,0,0,0,8,0,126.9,£5.5m
+275,Defender,James Tarkowski,Everton,2023/24,117,38,3420,1,1,13,51,0,0,0,0,10,0,150.9,£5.5m
+276,Defender,James Tarkowski,Everton,2022/23,106,38,3420,1,1,9,57,0,0,0,0,13,0,167.0,£5.5m
+277,Midfielder,Phil Foden,Man City,2024/25,105,20,1771,7,3,6,24,91,0,0,0,10,0,164.2,£8.0m
+278,Midfielder,Phil Foden,Man City,2023/24,230,33,2860,19,8,14,27,0,0,0,0,31,0,348.8,£8.0m
+279,Midfielder,Phil Foden,Man City,2022/23,142,22,1832,11,7,5,16,0,0,0,0,15,0,210.9,£8.0m
+280,Defender,Tino Livramento,Newcastle,2024/25,105,32,2835,0,1,10,40,182,0,0,0,6,0,110.1,£5.0m
+281,Defender,Tino Livramento,Newcastle,2023/24,45,12,1302,1,0,2,27,0,0,0,0,4,0,58.4,£5.0m
+282,Defender,Tino Livramento,Newcastle,2022/23,2,0,26,0,0,0,0,0,0,0,0,0,0,1.5,£5.0m
+283,Midfielder,Pedro Lomba Neto,Chelsea,2024/25,104,24,2262,4,6,8,25,119,0,0,0,9,0,180.0,£7.0m
+284,Midfielder,Pedro Lomba Neto,Chelsea,2023/24,86,18,1516,2,11,3,27,0,0,0,0,8,0,135.5,£7.0m
+285,Midfielder,Pedro Lomba Neto,Chelsea,2022/23,37,13,962,0,2,5,15,0,0,0,0,0,0,60.9,£7.0m
+286,Defender,Ezri Konsa Ngoyo,Aston Villa,2024/25,103,33,2936,2,0,8,45,176,0,0,0,10,0,82.4,£4.5m
+287,Defender,Ezri Konsa Ngoyo,Aston Villa,2023/24,91,35,3069,1,1,7,54,0,0,0,0,7,0,95.0,£4.5m
+288,Defender,Ezri Konsa Ngoyo,Aston Villa,2022/23,110,37,3322,0,0,12,45,0,0,0,0,6,0,75.7,£4.5m
+289,Goalkeeper,Bart Verbruggen,Brighton,2024/25,103,36,3240,0,1,7,58,0,0,0,91,6,0,85.8,£4.5m
+290,Goalkeeper,Bart Verbruggen,Brighton,2023/24,68,21,1890,0,0,4,28,0,0,0,65,7,0,54.3,£4.5m
+291,Midfielder,Callum Hudson-Odoi,Nott'm Forest,2024/25,103,25,2190,5,3,11,23,139,0,0,0,7,0,151.0,£6.0m
+292,Midfielder,Callum Hudson-Odoi,Nott'm Forest,2023/24,109,20,1846,8,2,2,41,0,0,0,0,14,0,145.0,£6.0m
+293,Midfielder,Callum Hudson-Odoi,Nott'm Forest,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£6.0m
+294,Midfielder,Yankuba Minteh,Brighton,2024/25,102,20,1831,6,5,4,33,172,0,0,0,8,0,159.1,£6.0m
+295,Goalkeeper,Nick Pope,Newcastle,2024/25,102,28,2520,0,0,8,35,0,0,1,88,2,0,67.4,£5.0m
+296,Goalkeeper,Nick Pope,Newcastle,2023/24,57,15,1345,0,0,6,16,0,0,0,43,1,0,32.7,£5.0m
+297,Goalkeeper,Nick Pope,Newcastle,2022/23,157,37,3261,0,0,14,32,0,0,2,87,14,1,72.9,£5.0m
+298,Defender,Lewis Hall,Newcastle,2024/25,102,24,2188,0,7,8,31,145,0,0,0,11,0,125.3,£5.5m
+299,Defender,Lewis Hall,Newcastle,2023/24,38,8,773,1,0,2,12,0,0,0,0,3,0,34.9,£5.5m
+300,Defender,Lewis Hall,Newcastle,2022/23,19,8,653,0,0,1,11,0,0,0,0,3,0,48.8,£5.5m
+301,Midfielder,Joelinton Cássio Apolinário de Lira,Newcastle,2024/25,99,29,2394,4,4,10,32,282,0,0,0,11,0,132.7,£6.0m
+302,Midfielder,Joelinton Cássio Apolinário de Lira,Newcastle,2023/24,45,15,1276,2,1,3,23,0,0,0,0,3,0,81.6,£6.0m
+303,Midfielder,Joelinton Cássio Apolinário de Lira,Newcastle,2022/23,115,30,2660,6,5,11,26,0,0,0,0,10,0,167.3,£6.0m
+304,Midfielder,Moisés Caicedo Corozo,Chelsea,2024/25,98,38,3351,1,4,12,42,455,0,0,0,4,0,129.2,£5.5m
+305,Midfielder,Moisés Caicedo Corozo,Chelsea,2023/24,84,33,2865,1,3,7,50,0,0,0,0,6,0,108.2,£5.5m
+306,Midfielder,Moisés Caicedo Corozo,Chelsea,2022/23,79,34,3138,1,1,10,47,0,0,0,0,0,0,148.2,£5.5m
+307,Defender,Pedro Porro Sauceda,Spurs,2024/25,98,28,2606,2,6,6,47,192,0,0,0,6,0,191.2,£5.5m
+308,Defender,Pedro Porro Sauceda,Spurs,2023/24,136,35,3090,3,8,7,54,0,0,0,0,20,0,208.5,£5.5m
+309,Defender,Pedro Porro Sauceda,Spurs,2022/23,59,13,1132,3,3,2,26,0,0,0,0,5,0,90.9,£5.5m
+310,Forward,Kai Havertz,Arsenal,2024/25,97,21,1872,9,3,7,20,99,0,0,0,14,0,144.8,£7.5m
+311,Forward,Kai Havertz,Arsenal,2023/24,180,30,2627,13,10,16,22,0,0,0,0,15,0,240.2,£7.5m
+312,Forward,Kai Havertz,Arsenal,2022/23,102,30,2565,7,1,9,31,0,0,0,0,13,0,202.5,£7.5m
+313,Midfielder,İlkay Gündoğan,Man City,2024/25,97,25,2218,1,7,10,28,176,0,0,0,5,0,144.2,£6.5m
+314,Midfielder,İlkay Gündoğan,Man City,2022/23,132,27,2351,8,6,10,20,0,0,0,0,9,0,182.7,£6.5m
+315,Midfielder,İlkay Gündoğan,Man City,2021/22,124,0,1851,8,5,14,10,0,0,0,0,10,0,196.3,£6.5m
+316,Midfielder,Georginio Rutter,Brighton,2024/25,95,19,1651,5,6,6,29,130,0,0,0,1,0,103.0,£6.0m
+317,Midfielder,Georginio Rutter,Brighton,2022/23,15,1,263,0,1,0,9,0,0,0,0,0,0,15.5,£6.0m
+318,Midfielder,Adama Traoré Diarra,Fulham,2024/25,95,18,1756,2,8,3,28,112,0,0,0,8,0,144.6,£5.5m
+319,Midfielder,Adama Traoré Diarra,Fulham,2023/24,36,1,363,2,3,0,13,0,0,0,0,1,0,41.3,£5.5m
+320,Midfielder,Adama Traoré Diarra,Fulham,2022/23,66,12,1477,2,4,2,30,0,0,0,0,0,0,91.7,£5.5m
+321,Defender,Diogo Dalot Teixeira,Man Utd,2024/25,95,31,2812,0,4,8,45,178,0,0,0,9,0,118.6,£4.5m
+322,Defender,Diogo Dalot Teixeira,Man Utd,2023/24,111,35,3174,2,3,8,55,0,0,0,0,13,1,154.4,£4.5m
+323,Defender,Diogo Dalot Teixeira,Man Utd,2022/23,102,24,2152,1,2,10,34,0,0,0,0,19,0,118.8,£4.5m
+324,Midfielder,Marcus Rashford,Man Utd,2024/25,95,16,1414,6,4,7,15,69,0,0,0,9,0,122.1,£7.0m
+325,Midfielder,Marcus Rashford,Man Utd,2023/24,108,26,2264,7,3,7,37,0,0,0,0,0,0,148.3,£7.0m
+326,Midfielder,Marcus Rashford,Man Utd,2022/23,205,32,2880,17,7,13,39,0,0,0,0,21,0,282.2,£7.0m
+327,Defender,Illia Zabarnyi,Bournemouth,2024/25,94,35,3109,0,1,8,42,292,0,0,0,8,1,92.0,£5.0m
+328,Defender,Illia Zabarnyi,Bournemouth,2023/24,84,37,3330,1,0,8,67,0,0,0,0,3,0,91.5,£5.0m
+329,Defender,Illia Zabarnyi,Bournemouth,2022/23,7,3,297,0,0,0,5,0,0,0,0,0,0,5.8,£5.0m
+330,Defender,Keane Lewis-Potter,Brentford,2024/25,94,36,3092,1,5,8,49,146,0,0,0,0,0,139.9,£5.0m
+331,Defender,Keane Lewis-Potter,Brentford,2023/24,73,15,1428,3,2,6,29,0,0,0,0,1,0,105.6,£5.0m
+332,Defender,Keane Lewis-Potter,Brentford,2022/23,14,3,313,0,1,0,4,0,0,0,0,0,0,21.9,£5.0m
+333,Defender,Trevoh Chalobah,Chelsea,2024/25,93,23,1969,3,1,6,25,176,0,0,0,11,0,84.6,£5.0m
+334,Defender,Trevoh Chalobah,Chelsea,2023/24,39,10,949,1,0,3,14,0,0,0,0,4,0,33.4,£5.0m
+335,Defender,Trevoh Chalobah,Chelsea,2022/23,49,18,1601,0,0,5,24,0,1,0,0,1,0,50.3,£5.0m
+336,Midfielder,Dwight McNeil,Everton,2024/25,93,15,1366,4,8,5,24,97,0,0,0,9,0,123.3,£6.0m
+337,Midfielder,Dwight McNeil,Everton,2023/24,124,33,2891,3,8,12,39,0,0,0,0,8,0,212.7,£6.0m
+338,Midfielder,Dwight McNeil,Everton,2022/23,126,28,2490,7,5,5,46,0,0,0,0,14,0,195.8,£6.0m
+339,Midfielder,Carlos Baleba,Brighton,2024/25,87,31,2660,3,1,8,40,376,0,0,0,7,1,105.2,£5.0m
+340,Midfielder,Carlos Baleba,Brighton,2023/24,34,15,1314,0,0,2,28,0,0,0,0,0,0,38.8,£5.0m
+341,Forward,Norberto Bercique Gomes Betuncal,Everton,2024/25,87,15,1521,8,0,4,24,84,0,0,0,11,0,119.5,£5.5m
+342,Forward,Norberto Bercique Gomes Betuncal,Everton,2023/24,50,9,943,3,0,2,20,0,0,0,0,3,0,71.3,£5.5m
+343,Midfielder,Curtis Jones,Liverpool,2024/25,87,19,1702,3,5,6,27,160,0,0,0,4,1,113.6,£5.5m
+344,Midfielder,Curtis Jones,Liverpool,2023/24,40,14,1156,1,1,2,19,0,0,0,0,2,1,57.0,£5.5m
+345,Midfielder,Curtis Jones,Liverpool,2022/23,52,12,1029,3,1,4,15,0,0,0,0,4,0,75.0,£5.5m
+346,Midfielder,João Victor Gomes da Silva,Wolves,2024/25,87,35,2975,3,1,6,59,377,0,0,0,7,1,117.3,£5.5m
+347,Midfielder,João Victor Gomes da Silva,Wolves,2023/24,75,32,2646,2,2,4,51,0,0,0,0,3,0,106.1,£5.5m
+348,Midfielder,João Victor Gomes da Silva,Wolves,2022/23,21,7,649,1,0,2,18,0,0,0,0,2,0,25.8,£5.5m
+349,Forward,Rodrigo Muniz Carvalho,Fulham,2024/25,86,8,943,8,1,2,17,45,0,0,0,14,0,95.4,£5.5m
+350,Forward,Rodrigo Muniz Carvalho,Fulham,2023/24,97,18,1589,9,2,6,27,0,0,0,0,12,0,148.2,£5.5m
+351,Forward,Rodrigo Muniz Carvalho,Fulham,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+352,Midfielder,Jadon Sancho,Man Utd,2024/25,86,19,1754,3,5,7,24,121,0,0,0,3,0,127.5,£6.0m
+353,Midfielder,Jadon Sancho,Man Utd,2023/24,3,0,76,0,0,0,1,0,0,0,0,0,0,3.6,£6.0m
+354,Midfielder,Jadon Sancho,Man Utd,2022/23,105,21,1683,6,3,13,18,0,0,0,0,8,0,143.2,£6.0m
+355,Midfielder,Lewis Cook,Bournemouth,2024/25,82,32,2976,1,4,5,44,386,0,0,0,3,1,144.9,£5.0m
+356,Midfielder,Lewis Cook,Bournemouth,2023/24,77,32,2787,0,3,8,51,0,0,0,0,5,1,127.2,£5.0m
+357,Midfielder,Lewis Cook,Bournemouth,2022/23,51,18,1712,0,2,3,39,0,0,0,0,1,0,71.2,£5.0m
+358,Defender,Maximilian Kilman,West Ham,2024/25,82,38,3348,0,1,6,62,327,0,0,0,5,0,118.8,£4.5m
+359,Defender,Maximilian Kilman,West Ham,2023/24,82,38,3420,2,0,5,65,0,0,0,0,3,0,130.2,£4.5m
+360,Defender,Maximilian Kilman,West Ham,2022/23,109,37,3307,0,1,11,56,0,0,0,0,12,0,93.2,£4.5m
+361,Midfielder,Andreas Hoelgebaum Pereira,Fulham,2024/25,81,25,2004,2,6,5,32,150,0,0,0,2,0,149.0,£5.5m
+362,Midfielder,Andreas Hoelgebaum Pereira,Fulham,2023/24,127,34,2611,3,9,14,40,0,0,0,0,7,0,217.8,£5.5m
+363,Midfielder,Andreas Hoelgebaum Pereira,Fulham,2022/23,123,33,2696,4,10,8,40,0,0,0,0,9,0,189.3,£5.5m
+364,Midfielder,Jack Harrison,Leeds,2024/25,81,24,2068,1,3,7,27,148,0,0,0,4,0,108.6,£5.5m
+365,Midfielder,Jack Harrison,Leeds,2023/24,92,25,2212,3,3,11,26,0,0,0,0,5,0,114.3,£5.5m
+366,Midfielder,Jack Harrison,Leeds,2022/23,134,34,2707,5,8,6,55,0,1,0,0,15,0,192.0,£5.5m
+367,Defender,Matheus Nunes,Man City,2024/25,81,19,1670,1,7,9,19,84,0,0,0,6,0,99.9,£5.5m
+368,Defender,Matheus Nunes,Man City,2023/24,32,9,831,0,2,2,13,0,0,0,0,1,1,51.8,£5.5m
+369,Defender,Matheus Nunes,Man City,2022/23,80,30,2467,1,1,11,38,0,0,0,0,5,1,109.3,£5.5m
+370,Midfielder,Lucas Tolentino Coelho de Lima,West Ham,2024/25,80,27,2374,4,1,4,50,271,0,0,0,5,0,132.6,£6.0m
+371,Midfielder,Lucas Tolentino Coelho de Lima,West Ham,2023/24,100,31,2627,4,6,4,52,0,0,0,0,7,0,163.7,£6.0m
+372,Midfielder,Lucas Tolentino Coelho de Lima,West Ham,2022/23,98,27,2154,4,5,6,39,0,0,0,0,8,0,145.4,£6.0m
+373,Defender,Toti Gomes,Wolves,2024/25,79,30,2613,0,1,8,45,250,0,0,0,8,0,86.5,£4.5m
+374,Defender,Toti Gomes,Wolves,2023/24,82,31,2771,1,4,4,49,0,0,0,0,6,0,83.7,£4.5m
+375,Defender,Toti Gomes,Wolves,2022/23,43,10,978,1,0,4,14,0,0,0,0,4,0,37.4,£4.5m
+376,Midfielder,John McGinn,Aston Villa,2024/25,78,27,2217,1,4,8,34,163,0,0,0,1,0,103.7,£5.5m
+377,Midfielder,John McGinn,Aston Villa,2023/24,119,35,3000,6,5,7,54,0,0,0,0,9,1,169.4,£5.5m
+378,Midfielder,John McGinn,Aston Villa,2022/23,90,30,2692,1,5,10,31,0,0,0,0,3,0,108.3,£5.5m
+379,Midfielder,Harry Wilson,Fulham,2024/25,78,12,1148,6,2,2,21,92,0,0,0,6,0,107.8,£5.5m
+380,Midfielder,Harry Wilson,Fulham,2023/24,94,16,1603,4,7,5,30,0,0,0,0,5,0,107.2,£5.5m
+381,Midfielder,Harry Wilson,Fulham,2022/23,68,13,1085,2,5,2,15,0,0,0,0,2,0,57.7,£5.5m
+382,Forward,Rasmus Højlund,Man Utd,2024/25,78,23,1998,4,1,6,31,46,0,0,0,8,0,86.3,£6.5m
+383,Forward,Rasmus Højlund,Man Utd,2023/24,112,25,2156,10,2,6,35,0,0,0,0,14,0,147.0,£6.5m
+384,Defender,Matty Cash,Aston Villa,2024/25,76,24,2069,1,1,7,22,145,0,0,0,2,0,71.3,£4.5m
+385,Defender,Matty Cash,Aston Villa,2023/24,64,23,2138,2,2,3,36,0,1,0,0,4,0,107.1,£4.5m
+386,Defender,Matty Cash,Aston Villa,2022/23,57,20,1817,0,2,4,29,0,0,0,0,3,0,54.9,£4.5m
+387,Midfielder,Ryan Christie,Bournemouth,2024/25,76,27,2114,2,3,8,28,326,0,0,0,5,0,139.6,£5.0m
+388,Midfielder,Ryan Christie,Bournemouth,2023/24,90,35,2908,0,5,8,56,0,0,0,0,5,0,175.4,£5.0m
+389,Midfielder,Ryan Christie,Bournemouth,2022/23,64,22,1825,1,2,3,35,0,0,0,0,2,0,111.1,£5.0m
+390,Defender,Emerson Palmieri dos Santos,West Ham,2024/25,76,26,2108,2,1,5,41,145,0,0,0,4,0,90.4,£4.5m
+391,Defender,Emerson Palmieri dos Santos,West Ham,2023/24,82,35,3138,1,4,5,67,0,1,0,0,8,0,121.8,£4.5m
+392,Defender,Emerson Palmieri dos Santos,West Ham,2022/23,39,16,1317,1,0,2,28,0,0,0,0,2,0,62.4,£4.5m
+393,Midfielder,Facundo Buonanotte,Brighton,2024/25,75,14,1508,5,2,2,33,162,0,0,0,6,0,114.7,£5.0m
+394,Midfielder,Facundo Buonanotte,Brighton,2023/24,57,17,1356,3,1,6,19,0,0,0,0,1,0,78.4,£5.0m
+395,Midfielder,Facundo Buonanotte,Brighton,2022/23,26,6,558,1,1,1,12,0,0,0,0,2,0,28.5,£5.0m
+396,Defender,Calvin Bassey,Fulham,2024/25,75,34,3074,1,0,5,47,204,0,0,0,0,0,84.1,£4.5m
+397,Defender,Calvin Bassey,Fulham,2023/24,66,25,2299,1,0,6,42,0,0,0,0,4,1,55.0,£4.5m
+398,Defender,Matt Doherty,Wolves,2024/25,75,25,2105,2,1,6,38,170,1,0,0,4,0,81.8,£4.5m
+399,Defender,Matt Doherty,Wolves,2023/24,41,9,1136,1,0,1,21,0,0,0,0,1,0,52.9,£4.5m
+400,Defender,Matt Doherty,Wolves,2022/23,35,7,663,1,0,3,9,0,0,0,0,2,0,40.3,£4.5m
+401,Midfielder,Yasin Ayari,Brighton,2024/25,74,22,1958,2,1,7,28,228,0,0,0,3,0,111.7,£5.0m
+402,Midfielder,Yasin Ayari,Brighton,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+403,Midfielder,Yasin Ayari,Brighton,2022/23,3,1,65,0,0,0,2,0,0,0,0,0,0,3.5,£5.0m
+404,Midfielder,Vitaly Janelt,Brentford,2024/25,73,27,2251,1,3,6,38,229,2,0,0,2,0,77.2,£5.0m
+405,Midfielder,Vitaly Janelt,Brentford,2023/24,93,37,3054,1,4,9,52,0,0,0,0,1,0,135.3,£5.0m
+406,Midfielder,Vitaly Janelt,Brentford,2022/23,85,24,2201,3,1,8,28,0,0,0,0,5,0,91.3,£5.0m
+407,Midfielder,Omar Marmoush,Man City,2024/25,73,14,1174,7,1,8,12,60,0,0,0,12,0,97.3,£8.5m
+408,Defender,Kieran Trippier,Newcastle,2024/25,72,14,1299,0,3,6,18,95,0,0,0,8,0,76.1,£5.0m
+409,Defender,Kieran Trippier,Newcastle,2023/24,111,26,2235,1,10,6,43,0,0,0,0,20,0,185.2,£5.0m
+410,Defender,Kieran Trippier,Newcastle,2022/23,198,38,3342,1,9,16,31,0,1,0,0,39,0,285.8,£5.0m
+411,Defender,Tosin Adarabioyo,Chelsea,2024/25,71,15,1403,1,1,7,14,114,0,0,0,7,0,49.6,£4.5m
+412,Defender,Tosin Adarabioyo,Chelsea,2023/24,66,18,1616,2,0,6,25,0,0,0,0,2,0,62.4,£4.5m
+413,Defender,Tosin Adarabioyo,Chelsea,2022/23,49,23,2084,1,0,3,39,0,0,0,0,1,0,73.4,£4.5m
+414,Midfielder,Pape Matar Sarr,Spurs,2024/25,71,22,1901,3,2,2,38,228,0,0,0,4,0,87.2,£5.0m
+415,Midfielder,Pape Matar Sarr,Spurs,2023/24,86,27,2063,3,3,9,27,0,0,0,0,4,0,110.2,£5.0m
+416,Midfielder,Pape Matar Sarr,Spurs,2022/23,14,2,211,0,1,0,11,0,0,0,0,0,0,8.6,£5.0m
+417,Goalkeeper,Alphonse Areola,West Ham,2024/25,69,25,2259,0,0,4,41,0,1,0,82,1,0,62.1,£4.5m
+418,Goalkeeper,Alphonse Areola,West Ham,2023/24,116,31,2700,0,0,4,53,0,1,2,138,11,0,102.4,£4.5m
+419,Goalkeeper,Alphonse Areola,West Ham,2022/23,7,2,307,0,0,0,7,0,0,0,9,0,0,6.8,£4.5m
+420,Defender,Chris Richards,Crystal Palace,2024/25,68,22,1921,1,1,7,31,193,0,0,0,2,1,69.6,£4.5m
+421,Defender,Chris Richards,Crystal Palace,2023/24,62,23,2091,1,1,4,38,0,0,0,0,4,0,65.2,£4.5m
+422,Defender,Chris Richards,Crystal Palace,2022/23,13,4,443,0,0,1,11,0,0,0,0,0,0,13.2,£4.5m
+423,Defender,Matthijs de Ligt,Man Utd,2024/25,68,25,2119,2,0,4,36,175,0,0,0,3,0,91.5,£5.0m
+424,Defender,Lisandro Martínez,Man Utd,2024/25,68,20,1751,2,1,6,27,134,0,0,0,5,0,73.8,£5.0m
+425,Defender,Lisandro Martínez,Man Utd,2023/24,15,8,643,0,1,1,12,0,1,0,0,0,0,19.4,£5.0m
+426,Defender,Lisandro Martínez,Man Utd,2022/23,81,24,2113,1,0,9,33,0,0,0,0,6,0,76.7,£5.0m
+427,Midfielder,Will Hughes,Crystal Palace,2024/25,67,24,2100,0,4,10,31,249,0,0,0,3,0,87.5,£5.0m
+428,Midfielder,Will Hughes,Crystal Palace,2023/24,61,23,1886,0,2,8,38,0,0,0,0,2,0,72.3,£5.0m
+429,Midfielder,Will Hughes,Crystal Palace,2022/23,41,7,822,1,1,1,11,0,0,0,0,3,0,37.4,£5.0m
+430,Midfielder,Ryan Yates,Nott'm Forest,2024/25,67,18,1901,2,2,6,27,242,0,0,0,3,0,85.4,£5.0m
+431,Midfielder,Ryan Yates,Nott'm Forest,2023/24,59,21,1979,1,1,1,38,0,0,0,0,1,0,72.1,£5.0m
+432,Midfielder,Ryan Yates,Nott'm Forest,2022/23,53,21,1833,0,3,5,36,0,0,0,0,0,0,54.5,£5.0m
+433,Midfielder,Ethan Nwaneri,Arsenal,2024/25,66,11,882,4,2,4,4,53,0,0,0,4,0,83.0,£5.5m
+434,Midfielder,Ethan Nwaneri,Arsenal,2023/24,1,0,13,0,0,0,0,0,0,0,0,0,0,1.8,£5.5m
+435,Midfielder,Ethan Nwaneri,Arsenal,2022/23,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+436,Midfielder,Jacob Ramsey,Aston Villa,2024/25,66,19,1616,1,4,5,26,133,0,0,0,3,1,78.7,£5.5m
+437,Midfielder,Jacob Ramsey,Aston Villa,2023/24,29,8,848,1,1,0,12,0,0,0,0,0,0,46.7,£5.5m
+438,Midfielder,Jacob Ramsey,Aston Villa,2022/23,135,31,2634,6,8,11,33,0,1,0,0,13,0,164.7,£5.5m
+439,Forward,Darwin Núñez Ribeiro,Liverpool,2024/25,66,8,1113,5,3,2,21,77,0,0,0,6,0,81.2,£6.5m
+440,Forward,Darwin Núñez Ribeiro,Liverpool,2023/24,132,22,2033,11,11,6,25,0,0,0,0,9,0,232.4,£6.5m
+441,Forward,Darwin Núñez Ribeiro,Liverpool,2022/23,100,19,1684,9,5,7,22,0,0,0,0,8,1,186.0,£6.5m
+442,Defender,Rico Lewis,Man City,2024/25,66,21,1888,1,2,5,27,90,0,0,0,1,1,65.0,£5.0m
+443,Defender,Rico Lewis,Man City,2023/24,52,8,804,2,0,4,9,0,0,0,0,2,0,45.8,£5.0m
+444,Defender,Rico Lewis,Man City,2022/23,29,10,900,0,0,2,8,0,0,0,0,0,0,36.3,£5.0m
+445,Goalkeeper,Guglielmo Vicario,Spurs,2024/25,66,24,2160,0,0,4,37,0,0,0,68,2,0,58.5,£5.0m
+446,Goalkeeper,Guglielmo Vicario,Spurs,2023/24,112,38,3420,0,0,7,61,0,0,0,110,9,0,97.4,£5.0m
+447,Midfielder,Amadou Onana,Aston Villa,2024/25,65,20,1613,3,0,6,23,200,0,0,0,5,0,77.0,£5.0m
+448,Midfielder,Amadou Onana,Aston Villa,2023/24,66,23,2085,2,0,5,38,0,0,0,0,5,0,89.5,£5.0m
+449,Midfielder,Amadou Onana,Aston Villa,2022/23,77,29,2486,1,3,9,37,0,0,0,0,2,0,96.0,£5.0m
+450,Defender,Jake O'Brien,Everton,2024/25,65,17,1568,2,0,5,17,123,0,0,0,5,0,56.0,£5.0m
+451,Defender,Jake O'Brien,Everton,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+452,Forward,Joshua Zirkzee,Man Utd,2024/25,64,14,1385,3,2,3,24,89,0,0,0,6,0,78.0,£6.0m
+453,Defender,Pervis Estupiñán Tenorio,Brighton,2024/25,63,26,2399,1,1,3,44,164,0,0,0,7,0,120.8,£4.5m
+454,Defender,Pervis Estupiñán Tenorio,Brighton,2023/24,57,15,1242,2,3,3,26,0,1,0,0,7,0,89.0,£4.5m
+455,Defender,Pervis Estupiñán Tenorio,Brighton,2022/23,128,31,2674,1,7,10,43,0,0,0,0,15,0,162.5,£4.5m
+456,Defender,Sepp van den Berg,Brentford,2024/25,62,29,2584,0,1,5,49,229,0,0,0,1,0,92.3,£4.5m
+457,Defender,Sepp van den Berg,Brentford,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+458,Defender,Sepp van den Berg,Brentford,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+459,Midfielder,Gonçalo Manuel Ganchinho Guedes,Wolves,2024/25,62,10,979,2,4,3,25,60,0,0,0,2,0,64.0,£5.5m
+460,Midfielder,Gonçalo Manuel Ganchinho Guedes,Wolves,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+461,Midfielder,Gonçalo Manuel Ganchinho Guedes,Wolves,2022/23,29,8,703,1,1,2,12,0,0,0,0,1,0,45.1,£5.5m
+462,Defender,Manuel Akanji,Man City,2024/25,61,23,2012,0,0,6,28,98,0,0,0,1,0,68.9,£5.5m
+463,Defender,Manuel Akanji,Man City,2023/24,112,28,2512,2,0,11,23,0,0,0,0,8,1,97.4,£5.5m
+464,Defender,Manuel Akanji,Man City,2022/23,82,24,2284,0,1,7,23,0,0,0,0,5,0,71.4,£5.5m
+465,Midfielder,André Trindade da Costa Neto,Wolves,2024/25,61,31,2472,0,0,7,46,359,0,0,0,1,0,69.7,£5.5m
+466,Defender,Malo Gusto,Chelsea,2024/25,60,19,1853,0,1,4,26,117,0,0,0,2,0,87.9,£5.0m
+467,Defender,Malo Gusto,Chelsea,2023/24,74,19,1746,0,6,5,28,0,0,0,0,10,1,110.4,£5.0m
+468,Midfielder,Christopher Nkunku,Chelsea,2024/25,60,9,904,3,2,2,16,59,0,0,0,5,0,77.1,£6.0m
+469,Midfielder,Christopher Nkunku,Chelsea,2023/24,29,2,437,3,0,0,12,0,0,0,0,4,0,42.7,£6.0m
+470,Midfielder,Simon Adingra,Sunderland,2024/25,60,12,1081,2,3,2,23,84,0,0,0,0,0,80.9,£5.5m
+471,Midfielder,Simon Adingra,Sunderland,2023/24,97,25,2220,6,1,4,38,0,0,0,0,8,0,173.4,£5.5m
+472,Defender,Joël Veltman,Brighton,2024/25,59,19,1694,0,0,6,24,131,0,0,0,7,0,48.1,£4.5m
+473,Defender,Joël Veltman,Brighton,2023/24,49,17,1579,1,1,3,32,0,0,0,0,0,0,51.8,£4.5m
+474,Defender,Joël Veltman,Brighton,2022/23,95,25,2183,1,1,10,29,0,0,0,0,6,0,77.4,£4.5m
+475,Midfielder,Julio Enciso Espínola,Brighton,2024/25,59,14,1155,2,3,2,22,79,0,0,0,5,0,87.7,£5.5m
+476,Midfielder,Julio Enciso Espínola,Brighton,2023/24,20,5,468,0,2,0,12,0,0,0,0,0,0,36.9,£5.5m
+477,Midfielder,Julio Enciso Espínola,Brighton,2022/23,57,7,794,4,3,4,12,0,0,0,0,7,0,83.8,£5.5m
+478,Midfielder,Tyler Adams,Bournemouth,2024/25,58,21,1959,0,3,6,30,276,0,0,0,1,0,75.9,£5.0m
+479,Midfielder,Tyler Adams,Bournemouth,2023/24,5,1,118,0,0,0,3,0,0,0,0,1,0,4.9,£5.0m
+480,Midfielder,Tyler Adams,Bournemouth,2022/23,47,24,2156,0,0,5,36,0,0,0,0,1,1,74.9,£5.0m
+481,Midfielder,Jefferson Lerma Solís,Crystal Palace,2024/25,58,26,2270,0,1,6,36,327,0,0,0,2,0,78.7,£5.0m
+482,Midfielder,Jefferson Lerma Solís,Crystal Palace,2023/24,64,27,2399,1,1,5,46,0,0,0,0,4,0,102.4,£5.0m
+483,Midfielder,Jefferson Lerma Solís,Crystal Palace,2022/23,101,37,3252,5,0,7,67,0,1,0,0,5,0,122.7,£5.0m
+484,Defender,Ian Maatsen,Aston Villa,2024/25,57,10,1125,1,2,3,16,71,0,0,0,0,0,74.3,£4.5m
+485,Defender,Ian Maatsen,Aston Villa,2023/24,11,1,200,0,0,0,5,0,0,0,0,0,0,10.3,£4.5m
+486,Midfielder,Boubacar Kamara,Aston Villa,2024/25,57,20,1720,1,0,6,22,210,0,0,0,3,0,60.2,£5.0m
+487,Midfielder,Boubacar Kamara,Aston Villa,2023/24,40,20,1653,0,1,7,22,0,0,0,0,1,1,59.1,£5.0m
+488,Midfielder,Boubacar Kamara,Aston Villa,2022/23,44,21,1773,0,1,3,30,0,0,0,0,0,0,45.7,£5.0m
+489,Defender,Adam Smith,Bournemouth,2024/25,57,19,1586,0,0,6,18,82,0,0,0,0,0,35.0,£4.5m
+490,Defender,Adam Smith,Bournemouth,2023/24,80,25,2148,0,3,8,33,0,0,0,0,4,0,66.1,£4.5m
+491,Defender,Adam Smith,Bournemouth,2022/23,74,34,2940,0,1,7,58,0,0,0,0,5,0,78.3,£4.5m
+492,Midfielder,Ryan Sessegnon,Fulham,2024/25,57,7,574,4,2,1,10,74,0,0,0,5,0,67.1,£5.5m
+493,Midfielder,Ryan Sessegnon,Fulham,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+494,Midfielder,Ryan Sessegnon,Fulham,2022/23,35,9,805,2,1,1,15,0,0,0,0,0,0,54.3,£5.5m
+495,Midfielder,Saša Lukić,Fulham,2024/25,56,28,2348,0,2,4,37,244,0,0,0,1,0,91.0,£5.0m
+496,Midfielder,Saša Lukić,Fulham,2023/24,43,13,1113,1,0,5,20,0,0,0,0,0,0,46.2,£5.0m
+497,Midfielder,Saša Lukić,Fulham,2022/23,15,4,406,0,0,0,10,0,0,0,0,0,0,8.2,£5.0m
+498,Defender,Pau Torres,Aston Villa,2024/25,55,23,2019,0,0,5,33,116,0,0,0,3,0,54.0,£4.5m
+499,Defender,Pau Torres,Aston Villa,2023/24,85,27,2462,2,0,6,37,0,0,0,0,4,0,76.6,£4.5m
+500,Defender,Reece James,Chelsea,2024/25,54,12,1057,1,2,3,14,50,0,0,0,5,0,46.7,£5.5m
+501,Defender,Reece James,Chelsea,2023/24,11,5,416,0,2,0,13,0,0,0,0,0,2,37.1,£5.5m
+502,Defender,Reece James,Chelsea,2022/23,44,14,1242,1,2,2,17,0,0,0,0,5,0,80.4,£5.5m
+503,Midfielder,Nicolás Domínguez,Nott'm Forest,2024/25,54,23,1954,0,1,7,27,293,0,0,0,0,0,89.4,£5.0m
+504,Midfielder,Nicolás Domínguez,Nott'm Forest,2023/24,67,19,1489,2,2,6,27,0,0,0,0,6,0,70.6,£5.0m
+505,Defender,Jean-Clair Todibo,West Ham,2024/25,54,20,1824,0,0,5,33,168,0,0,0,1,0,44.5,£4.5m
+506,Forward,Eddie Nketiah,Crystal Palace,2024/25,53,9,1018,3,2,2,17,55,0,0,0,4,1,82.5,£5.5m
+507,Forward,Eddie Nketiah,Crystal Palace,2023/24,71,10,1065,5,4,6,10,0,0,0,0,5,0,77.2,£5.5m
+508,Forward,Eddie Nketiah,Crystal Palace,2022/23,63,9,1071,4,2,2,16,0,0,0,0,5,0,93.8,£5.5m
+509,Midfielder,Sander Berge,Fulham,2024/25,53,26,2221,0,0,4,35,242,0,0,0,2,0,65.1,£5.0m
+510,Midfielder,Sander Berge,Fulham,2023/24,74,34,3002,1,2,2,70,0,0,0,0,3,1,114.3,£5.0m
+511,Midfielder,Sander Berge,Fulham,2020/21,31,0,1119,1,1,0,23,0,0,0,0,1,0,49.8,£5.0m
+512,Midfielder,David Brooks,Bournemouth,2024/25,52,9,941,2,1,3,12,80,0,0,0,2,0,80.4,£5.0m
+513,Midfielder,David Brooks,Bournemouth,2023/24,23,2,271,1,1,0,7,0,0,0,0,2,0,31.4,£5.0m
+514,Midfielder,David Brooks,Bournemouth,2022/23,5,2,170,0,0,0,4,0,0,0,0,0,0,8.7,£5.0m
+515,Midfielder,Mats Wieffer,Brighton,2024/25,52,10,1003,1,5,2,22,170,0,0,0,4,0,68.5,£5.0m
+516,Midfielder,João Pedro Ferreira da Silva,Nott'm Forest,2024/25,52,5,835,3,2,1,16,99,0,0,0,0,0,64.6,£5.5m
+517,Defender,Santiago Ignacio Bueno,Wolves,2024/25,52,18,1678,0,0,5,34,147,0,0,0,2,0,44.2,£4.5m
+518,Defender,Santiago Ignacio Bueno,Wolves,2023/24,13,9,819,0,0,0,18,0,0,0,0,0,0,20.3,£4.5m
+519,Defender,Joachim Andersen,Fulham,2024/25,51,30,2673,0,0,4,47,283,1,0,0,3,1,95.0,£4.5m
+520,Defender,Joachim Andersen,Fulham,2023/24,121,38,3416,2,3,10,58,0,0,0,0,12,0,143.1,£4.5m
+521,Defender,Joachim Andersen,Fulham,2022/23,80,32,2782,1,0,8,37,0,2,0,0,1,0,109.8,£4.5m
+522,Defender,Djed Spence,Spurs,2024/25,51,19,1790,1,2,3,39,133,1,0,0,6,1,76.1,£4.5m
+523,Defender,Djed Spence,Spurs,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+524,Defender,Djed Spence,Spurs,2022/23,4,0,5,0,0,0,0,0,0,0,0,0,0,2.2,£4.5m
+525,Midfielder,James Ward-Prowse,West Ham,2024/25,51,17,1433,1,2,5,18,132,0,0,0,2,1,80.0,£6.0m
+526,Midfielder,James Ward-Prowse,West Ham,2023/24,146,34,3000,7,7,5,65,0,0,0,0,19,0,217.5,£6.0m
+527,Midfielder,James Ward-Prowse,West Ham,2022/23,142,38,3371,9,4,4,72,0,1,0,0,18,0,245.2,£6.0m
+528,Defender,Benjamin White,Arsenal,2024/25,50,13,1195,0,2,5,13,82,0,0,0,0,0,51.0,£5.5m
+529,Defender,Benjamin White,Arsenal,2023/24,182,35,2987,4,5,18,26,0,0,0,0,14,0,159.0,£5.5m
+530,Defender,Benjamin White,Arsenal,2022/23,156,36,3054,2,5,15,35,0,0,0,0,12,0,130.8,£5.5m
+531,Midfielder,Matt O'Riley,Brighton,2024/25,50,11,929,2,3,2,20,70,1,0,0,2,0,75.3,£5.5m
+532,Midfielder,Yves Bissouma,Spurs,2024/25,50,16,1396,2,0,3,28,193,0,0,0,4,0,48.0,£5.5m
+533,Midfielder,Yves Bissouma,Spurs,2023/24,44,26,2070,0,0,7,35,0,0,0,0,0,2,82.3,£5.5m
+534,Midfielder,Yves Bissouma,Spurs,2022/23,27,10,998,0,0,1,20,0,0,0,0,0,0,29.0,£5.5m
+535,Midfielder,Marshall Munetsi,Wolves,2024/25,50,12,1077,2,2,5,11,83,0,0,0,4,0,52.3,£5.5m
+536,Defender,Kenny Tete,Fulham,2024/25,49,21,1773,0,2,3,26,162,0,0,0,0,0,73.1,£4.5m
+537,Defender,Kenny Tete,Fulham,2023/24,27,10,863,1,0,2,21,0,0,0,0,0,0,35.6,£4.5m
+538,Defender,Kenny Tete,Fulham,2022/23,90,29,2569,1,5,7,36,0,0,0,0,1,0,120.9,£4.5m
+539,Midfielder,Manuel Ugarte Ribeiro,Man Utd,2024/25,49,22,1777,1,2,4,33,245,1,0,0,1,0,62.1,£5.0m
+540,Defender,Cristian Romero,Spurs,2024/25,49,18,1416,1,1,3,22,111,0,0,0,3,0,69.0,£5.0m
+541,Defender,Cristian Romero,Spurs,2023/24,107,33,2790,5,0,7,46,0,1,0,0,15,1,125.9,£5.0m
+542,Defender,Cristian Romero,Spurs,2022/23,66,26,2363,0,2,8,41,0,0,0,0,3,1,77.3,£5.0m
+543,Midfielder,Rodrigo Bentancur,Spurs,2024/25,49,21,1640,2,0,3,26,246,0,0,0,1,0,70.2,£5.5m
+544,Midfielder,Rodrigo Bentancur,Spurs,2023/24,32,13,997,1,1,1,25,0,0,0,0,0,0,52.1,£5.5m
+545,Midfielder,Rodrigo Bentancur,Spurs,2022/23,71,17,1501,5,2,6,24,0,0,0,0,7,0,90.7,£5.5m
+546,Defender,Michael Keane,Everton,2024/25,48,11,1046,3,0,3,20,103,0,0,0,4,0,45.4,£4.5m
+547,Defender,Michael Keane,Everton,2023/24,18,4,437,1,0,1,13,0,0,0,0,2,0,20.5,£4.5m
+548,Defender,Michael Keane,Everton,2022/23,39,10,983,1,2,2,22,0,0,0,0,5,0,41.7,£4.5m
+549,Defender,Harry Maguire,Man Utd,2024/25,48,19,1751,1,0,3,27,159,0,0,0,3,0,76.1,£4.5m
+550,Defender,Harry Maguire,Man Utd,2023/24,73,18,1650,2,4,4,29,0,0,0,0,6,0,77.7,£4.5m
+551,Defender,Harry Maguire,Man Utd,2022/23,39,8,762,0,0,5,7,0,0,0,0,2,0,26.9,£4.5m
+552,Midfielder,Carlos Henrique Casimiro,Man Utd,2024/25,48,18,1489,1,0,6,20,258,0,0,0,3,0,104.8,£5.5m
+553,Midfielder,Carlos Henrique Casimiro,Man Utd,2023/24,58,24,1981,1,3,5,34,0,0,0,0,0,0,119.9,£5.5m
+554,Midfielder,Carlos Henrique Casimiro,Man Utd,2022/23,87,24,2122,4,3,10,22,0,0,0,0,10,2,136.3,£5.5m
+555,Defender,Tyrone Mings,Aston Villa,2024/25,47,12,1119,0,1,4,11,84,0,0,0,5,0,34.6,£4.5m
+556,Defender,Tyrone Mings,Aston Villa,2023/24,0,1,30,0,0,0,2,0,0,0,0,0,0,2.2,£4.5m
+557,Defender,Tyrone Mings,Aston Villa,2022/23,130,35,3150,1,3,12,40,0,1,0,0,17,0,87.8,£4.5m
+558,Midfielder,Leon Bailey,Aston Villa,2024/25,47,14,1132,1,2,2,19,77,0,0,0,2,0,70.3,£5.5m
+559,Midfielder,Leon Bailey,Aston Villa,2023/24,148,22,2063,10,11,5,32,0,0,0,0,11,0,199.1,£5.5m
+560,Midfielder,Leon Bailey,Aston Villa,2022/23,100,26,1964,4,5,8,32,0,0,0,0,6,0,132.8,£5.5m
+561,Defender,Ethan Pinnock,Brentford,2024/25,47,21,1912,2,0,2,35,216,1,0,0,0,0,83.6,£4.5m
+562,Defender,Ethan Pinnock,Brentford,2023/24,77,28,2521,2,0,5,46,0,0,0,0,5,0,94.2,£4.5m
+563,Defender,Ethan Pinnock,Brentford,2022/23,112,30,2700,3,0,10,34,0,1,0,0,6,0,127.2,£4.5m
+564,Defender,Timothy Castagne,Fulham,2024/25,46,17,1642,0,1,3,28,149,0,0,0,0,0,64.9,£4.5m
+565,Defender,Timothy Castagne,Fulham,2023/24,105,29,2630,1,3,9,40,0,0,0,0,7,0,102.1,£4.5m
+566,Defender,Timothy Castagne,Fulham,2022/23,114,36,3255,2,4,8,63,0,0,0,0,11,0,136.4,£4.5m
+567,Midfielder,Joe Willock,Newcastle,2024/25,46,11,1065,0,2,4,16,87,0,0,0,0,0,63.9,£5.0m
+568,Midfielder,Joe Willock,Newcastle,2023/24,18,5,415,1,0,1,9,0,0,0,0,0,0,28.8,£5.0m
+569,Midfielder,Joe Willock,Newcastle,2022/23,123,31,2556,3,7,12,26,0,0,0,0,11,0,174.9,£5.0m
+570,Goalkeeper,Caoimhín Kelleher,Brentford,2024/25,45,10,900,0,0,4,12,0,0,1,27,1,0,22.4,£4.5m
+571,Goalkeeper,Caoimhín Kelleher,Brentford,2023/24,34,10,900,0,0,2,11,0,0,0,28,3,0,27.0,£4.5m
+572,Goalkeeper,Caoimhín Kelleher,Brentford,2022/23,2,1,90,0,0,0,4,0,0,0,6,0,0,3.8,£4.5m
+573,Midfielder,Brajan Gruda,Brighton,2024/25,45,8,676,1,4,1,15,49,0,0,0,1,0,69.1,£5.5m
+574,Midfielder,Daichi Kamada,Crystal Palace,2024/25,45,15,1545,0,0,3,27,173,0,0,0,0,1,68.2,£5.0m
+575,Midfielder,Archie Gray,Spurs,2024/25,45,19,1750,0,0,2,41,162,1,0,0,0,0,34.3,£5.0m
+576,Midfielder,Archie Gray,Spurs,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+577,Midfielder,Archie Gray,Spurs,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+578,Defender,Konstantinos Mavropanos,West Ham,2024/25,45,21,2035,0,0,2,39,216,0,0,0,4,1,73.2,£4.5m
+579,Defender,Konstantinos Mavropanos,West Ham,2023/24,40,16,1500,1,0,3,27,0,2,0,0,3,0,45.3,£4.5m
+580,Defender,Konstantinos Mavropanos,West Ham,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+581,Defender,Emmanuel Agbadou,Wolves,2024/25,45,16,1410,1,0,4,22,144,0,0,0,1,0,52.0,£4.5m
+582,Midfielder,Ross Barkley,Aston Villa,2024/25,44,3,567,3,1,1,10,75,0,0,0,5,0,54.8,£5.0m
+583,Midfielder,Ross Barkley,Aston Villa,2023/24,101,30,2616,5,5,2,66,0,0,0,0,4,0,168.7,£5.0m
+584,Midfielder,Ross Barkley,Aston Villa,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+585,Goalkeeper,Martin Dúbravka,Burnley,2024/25,44,10,900,0,0,5,12,0,0,0,29,2,0,22.0,£4.0m
+586,Goalkeeper,Martin Dúbravka,Burnley,2023/24,75,22,1984,0,0,4,42,0,0,1,88,3,0,67.2,£4.0m
+587,Goalkeeper,Martin Dúbravka,Burnley,2022/23,11,1,156,0,0,1,1,0,0,0,10,1,0,5.4,£4.0m
+588,Defender,Lewis Dunk,Brighton,2024/25,44,23,2081,0,1,4,42,126,1,0,0,0,0,66.9,£4.5m
+589,Defender,Lewis Dunk,Brighton,2023/24,89,33,2869,3,1,5,53,0,0,0,0,11,1,141.7,£4.5m
+590,Defender,Lewis Dunk,Brighton,2022/23,112,36,3240,1,1,12,50,0,1,0,0,7,0,102.4,£4.5m
+591,Midfielder,Carlos Alcaraz Durán,Everton,2024/25,44,7,766,2,3,1,9,68,0,0,0,5,0,65.4,£5.5m
+592,Midfielder,Carlos Alcaraz Durán,Everton,2022/23,55,13,1024,4,2,0,25,0,0,0,0,4,0,52.2,£5.5m
+593,Midfielder,Lucas Bergvall,Spurs,2024/25,44,11,1200,0,2,3,25,165,0,0,0,0,0,55.0,£5.5m
+594,Defender,Jakub Kiwior,Arsenal,2024/25,43,10,1117,1,0,3,15,93,0,0,0,2,0,39.2,£5.5m
+595,Defender,Jakub Kiwior,Arsenal,2023/24,67,11,942,1,3,6,8,0,0,0,0,1,0,42.7,£5.5m
+596,Defender,Jakub Kiwior,Arsenal,2022/23,26,5,425,1,0,2,6,0,0,0,0,1,0,13.9,£5.5m
+597,Midfielder,Yehor Yarmoliuk,Brentford,2024/25,43,15,1435,0,0,3,25,215,0,0,0,0,0,54.4,£5.0m
+598,Midfielder,Yehor Yarmoliuk,Brentford,2023/24,33,6,670,0,0,4,9,0,0,0,0,0,0,29.0,£5.0m
+599,Midfielder,Yehor Yarmoliuk,Brentford,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+600,Defender,Konstantinos Tsimikas,Liverpool,2024/25,43,9,829,0,1,4,8,61,0,0,0,3,0,52.5,£5.0m
+601,Defender,Konstantinos Tsimikas,Liverpool,2023/24,48,8,675,0,3,4,7,0,0,0,0,4,0,46.2,£5.0m
+602,Defender,Konstantinos Tsimikas,Liverpool,2022/23,48,9,762,0,4,4,11,0,0,0,0,2,0,60.7,£5.0m
+603,Defender,Destiny Udogie,Spurs,2024/25,43,24,1923,0,1,2,35,131,1,0,0,0,0,74.5,£4.5m
+604,Defender,Destiny Udogie,Spurs,2023/24,79,28,2391,2,3,5,43,0,0,0,0,8,1,117.3,£4.5m
+605,Forward,Gabriel Fernando de Jesus,Arsenal,2024/25,42,6,600,3,2,2,5,50,0,0,0,6,0,52.6,£6.5m
+606,Forward,Gabriel Fernando de Jesus,Arsenal,2023/24,85,17,1470,4,7,11,11,0,0,0,0,10,0,152.7,£6.5m
+607,Forward,Gabriel Fernando de Jesus,Arsenal,2022/23,125,24,2064,11,7,9,23,0,0,0,0,17,0,241.9,£6.5m
+608,Defender,Tariq Lamptey,Brighton,2024/25,42,10,856,2,2,2,21,52,0,0,0,1,0,36.8,£4.5m
+609,Defender,Tariq Lamptey,Brighton,2023/24,31,10,908,0,3,1,20,0,0,0,0,0,0,37.6,£4.5m
+610,Defender,Tariq Lamptey,Brighton,2022/23,23,3,439,0,0,1,7,0,0,0,0,0,0,20.6,£4.5m
+611,Midfielder,Adam Wharton,Crystal Palace,2024/25,42,16,1314,0,2,4,21,185,0,0,0,0,0,71.2,£5.0m
+612,Midfielder,Adam Wharton,Crystal Palace,2023/24,50,15,1296,0,3,7,16,0,0,0,0,4,0,57.3,£5.0m
+613,Midfielder,James Garner,Everton,2024/25,42,17,1590,0,1,5,19,181,0,0,0,0,0,60.4,£5.0m
+614,Midfielder,James Garner,Everton,2023/24,87,34,3001,1,2,11,47,0,0,0,0,3,0,143.5,£5.0m
+615,Midfielder,James Garner,Everton,2022/23,25,7,796,0,1,2,13,0,0,0,0,0,0,29.2,£5.0m
+616,Midfielder,Kobbie Mainoo,Man Utd,2024/25,42,19,1646,0,0,5,27,167,0,0,0,0,0,58.8,£5.0m
+617,Midfielder,Kobbie Mainoo,Man Utd,2023/24,77,24,1927,3,1,7,31,0,0,0,0,8,0,80.6,£5.0m
+618,Midfielder,Kobbie Mainoo,Man Utd,2022/23,1,0,10,0,0,0,0,0,0,0,0,0,0,1.3,£5.0m
+619,Midfielder,Mathys Tel,Spurs,2024/25,42,11,908,2,2,2,20,65,0,0,0,2,0,62.3,£6.5m
+620,Forward,Niclas Füllkrug,West Ham,2024/25,42,6,783,3,2,2,18,39,0,0,0,3,0,56.8,£6.0m
+621,Defender,Rodrigo Martins Gomes,Wolves,2024/25,42,7,794,2,0,1,20,47,0,0,0,0,0,47.6,£4.5m
+622,Defender,Conor Bradley,Liverpool,2024/25,41,7,744,0,2,3,10,45,0,0,0,3,0,42.8,£5.0m
+623,Defender,Conor Bradley,Liverpool,2023/24,50,10,752,1,3,3,7,0,1,0,0,7,0,60.6,£5.0m
+624,Defender,Conor Bradley,Liverpool,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+625,Defender,Oleksandr Zinchenko,Arsenal,2024/25,40,5,518,0,1,4,1,21,0,0,0,2,0,24.1,£5.0m
+626,Defender,Oleksandr Zinchenko,Arsenal,2023/24,104,20,1717,1,2,9,15,0,0,0,0,16,0,100.4,£5.0m
+627,Defender,Oleksandr Zinchenko,Arsenal,2022/23,99,26,2122,1,2,10,28,0,0,0,0,8,0,98.3,£5.0m
+628,Midfielder,Edson Álvarez Velázquez,West Ham,2024/25,40,20,1769,0,1,3,31,205,0,0,0,0,1,54.7,£5.0m
+629,Midfielder,Edson Álvarez Velázquez,West Ham,2023/24,62,28,2375,1,1,5,45,0,0,0,0,3,0,82.7,£5.0m
+630,Defender,Riccardo Calafiori,Arsenal,2024/25,39,11,978,2,1,1,12,66,0,0,0,1,0,54.6,£5.5m
+631,Defender,Kristoffer Ajer,Brentford,2024/25,39,17,1433,0,0,3,25,89,0,0,0,0,0,48.5,£4.5m
+632,Defender,Kristoffer Ajer,Brentford,2023/24,68,21,1826,2,1,5,33,0,0,0,0,3,0,79.7,£4.5m
+633,Defender,Kristoffer Ajer,Brentford,2022/23,29,9,763,0,0,4,14,0,0,0,0,0,0,15.1,£4.5m
+634,Defender,Adam Webster,Brighton,2024/25,39,11,885,0,1,4,11,79,0,0,0,2,0,30.2,£4.5m
+635,Defender,Adam Webster,Brighton,2023/24,26,13,1142,0,0,2,22,0,1,0,0,2,0,39.7,£4.5m
+636,Defender,Adam Webster,Brighton,2022/23,75,23,1983,0,0,9,27,0,1,0,0,3,0,59.2,£4.5m
+637,Midfielder,Mathias Jensen,Brentford,2024/25,38,8,846,0,2,2,17,87,0,0,0,1,0,43.8,£5.0m
+638,Midfielder,Mathias Jensen,Brentford,2023/24,98,27,2201,3,4,9,45,0,0,0,0,10,0,130.4,£5.0m
+639,Midfielder,Mathias Jensen,Brentford,2022/23,132,37,2805,5,7,10,40,0,0,0,0,11,0,164.1,£5.0m
+640,Midfielder,Jack Grealish,Man City,2024/25,38,7,710,1,1,2,10,44,0,0,0,4,0,71.3,£6.5m
+641,Midfielder,Jack Grealish,Man City,2023/24,50,10,998,3,1,3,13,0,0,0,0,6,0,91.9,£6.5m
+642,Midfielder,Jack Grealish,Man City,2022/23,121,23,2051,5,10,10,16,0,0,0,0,9,0,191.7,£6.5m
+643,Defender,Myles Lewis-Skelly,Arsenal,2024/25,37,15,1362,1,0,5,16,54,0,0,0,0,2,40.0,£5.5m
+644,Defender,Myles Lewis-Skelly,Arsenal,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+645,Midfielder,Hwang Hee-chan,Wolves,2024/25,37,5,646,2,1,0,19,46,0,0,0,0,0,26.7,£6.0m
+646,Midfielder,Hwang Hee-chan,Wolves,2023/24,125,25,2116,12,3,3,37,0,0,0,0,10,0,140.7,£6.0m
+647,Midfielder,Hwang Hee-chan,Wolves,2022/23,60,12,1117,3,2,3,18,0,0,0,0,3,0,58.8,£6.0m
+648,Defender,Mads Roerslev Rasmussen,Brentford,2024/25,36,11,1100,0,2,2,20,58,0,0,0,0,0,48.0,£4.5m
+649,Defender,Mads Roerslev Rasmussen,Brentford,2023/24,75,22,1975,1,2,5,40,0,0,0,0,3,0,76.3,£4.5m
+650,Defender,Mads Roerslev Rasmussen,Brentford,2022/23,48,12,1101,0,0,5,12,0,0,0,0,0,0,33.4,£4.5m
+651,Defender,Felipe Rodrigues da Silva,Nott'm Forest,2024/25,36,6,891,0,0,3,14,112,0,0,0,2,0,24.0,£4.5m
+652,Midfielder,Guido Rodríguez,West Ham,2024/25,36,16,1147,0,1,4,19,141,0,0,0,0,0,31.5,£5.0m
+653,Midfielder,Fábio Freitas Gouveia Carvalho,Brentford,2024/25,35,3,443,2,1,0,14,49,0,0,0,1,0,36.3,£5.0m
+654,Midfielder,Fábio Freitas Gouveia Carvalho,Brentford,2022/23,27,4,339,2,1,0,3,0,0,0,0,0,0,29.7,£5.0m
+655,Midfielder,Fábio Freitas Gouveia Carvalho,Brentford,2020/21,12,0,254,1,0,0,6,0,0,0,0,0,0,26.5,£5.0m
+656,Goalkeeper,Stefan Ortega Moreno,Man City,2024/25,35,12,1099,0,0,3,18,0,0,0,33,0,0,29.4,£5.0m
+657,Goalkeeper,Stefan Ortega Moreno,Man City,2023/24,22,5,632,0,0,1,7,0,0,0,20,2,0,17.3,£5.0m
+658,Goalkeeper,Stefan Ortega Moreno,Man City,2022/23,23,3,270,0,0,2,1,0,0,0,14,5,0,11.7,£5.0m
+659,Forward,Richarlison de Andrade,Spurs,2024/25,35,4,497,4,1,1,9,25,0,0,0,0,0,47.4,£6.5m
+660,Forward,Richarlison de Andrade,Spurs,2023/24,122,18,1481,11,4,7,18,0,0,0,0,7,0,152.1,£6.5m
+661,Forward,Richarlison de Andrade,Spurs,2022/23,54,12,995,1,5,3,18,0,0,0,0,2,0,86.3,£6.5m
+662,Defender,Álex Moreno Lopera,Aston Villa,2024/25,34,11,952,0,1,3,16,83,0,0,0,1,0,36.4,£4.0m
+663,Defender,Álex Moreno Lopera,Aston Villa,2023/24,49,11,1024,2,0,3,20,0,1,0,0,5,0,52.7,£4.0m
+664,Defender,Álex Moreno Lopera,Aston Villa,2022/23,72,14,1325,0,3,7,10,0,0,0,0,5,0,72.3,£4.0m
+665,Midfielder,Donyell Malen,Aston Villa,2024/25,34,2,296,3,0,0,6,17,0,0,0,3,0,38.5,£5.5m
+666,Midfielder,Justin Devenny,Crystal Palace,2024/25,34,4,494,1,1,0,8,56,0,0,0,1,0,33.2,£4.5m
+667,Midfielder,Sean Longstaff,Leeds,2024/25,34,8,783,0,1,2,11,78,0,0,0,0,0,27.3,£5.0m
+668,Midfielder,Sean Longstaff,Leeds,2023/24,110,30,2742,6,3,10,50,0,0,0,0,3,0,138.8,£5.0m
+669,Midfielder,Sean Longstaff,Leeds,2022/23,93,28,2514,1,5,13,18,0,0,0,0,2,0,116.8,£5.0m
+670,Midfielder,Wilson Odobert,Spurs,2024/25,34,9,843,1,0,1,20,57,0,0,0,3,0,36.7,£5.5m
+671,Midfielder,Wilson Odobert,Spurs,2023/24,82,25,2095,3,4,2,48,0,0,0,0,3,0,121.1,£5.5m
+672,Midfielder,Tom Cairney,Fulham,2024/25,33,3,610,2,0,1,12,73,0,0,0,0,1,47.2,£5.0m
+673,Midfielder,Tom Cairney,Fulham,2023/24,70,14,1472,1,6,4,27,0,1,0,0,2,0,90.9,£5.0m
+674,Midfielder,Tom Cairney,Fulham,2022/23,53,6,968,2,1,1,13,0,0,0,0,2,0,64.2,£5.0m
+675,Midfielder,Harvey Elliott,Liverpool,2024/25,33,2,359,1,2,0,6,26,0,0,0,3,0,40.4,£5.5m
+676,Midfielder,Harvey Elliott,Liverpool,2023/24,96,11,1330,3,9,4,13,0,0,0,0,8,0,137.5,£5.5m
+677,Midfielder,Harvey Elliott,Liverpool,2022/23,62,18,1600,1,2,5,20,0,0,0,0,2,0,105.5,£5.5m
+678,Midfielder,Crysencio Summerville,West Ham,2024/25,33,7,776,1,1,2,20,61,0,0,0,2,0,58.7,£5.5m
+679,Midfielder,Crysencio Summerville,West Ham,2022/23,74,12,1411,4,4,1,38,0,0,0,0,4,0,88.6,£5.5m
+680,Midfielder,Crysencio Summerville,West Ham,2021/22,6,0,126,0,0,0,1,0,0,0,0,0,0,8.6,£5.5m
+681,Forward,Enes Ünal,Bournemouth,2024/25,32,2,330,2,1,2,3,23,0,0,0,4,0,35.9,£5.5m
+682,Forward,Enes Ünal,Bournemouth,2023/24,40,2,317,2,4,1,9,0,0,0,0,3,0,43.7,£5.5m
+683,Forward,Taiwo Awoniyi,Nott'm Forest,2024/25,32,3,398,1,0,1,10,31,0,0,0,0,0,21.9,£5.5m
+684,Forward,Taiwo Awoniyi,Nott'm Forest,2023/24,67,12,1036,6,3,3,21,0,0,0,0,5,0,74.2,£5.5m
+685,Forward,Taiwo Awoniyi,Nott'm Forest,2022/23,100,17,1395,10,1,5,29,0,0,0,0,16,0,95.6,£5.5m
+686,Defender,Micky van de Ven,Spurs,2024/25,32,12,1014,0,2,2,17,66,0,0,0,2,0,30.9,£4.5m
+687,Defender,Micky van de Ven,Spurs,2023/24,81,27,2341,3,0,5,38,0,0,0,0,10,0,70.5,£4.5m
+688,Defender,Marcos Senesi Barón,Bournemouth,2024/25,31,13,1103,0,0,2,17,118,0,0,0,3,0,39.6,£4.5m
+689,Defender,Marcos Senesi Barón,Bournemouth,2023/24,102,26,2239,4,5,6,44,0,0,0,0,13,0,119.7,£4.5m
+690,Defender,Marcos Senesi Barón,Bournemouth,2022/23,69,29,2489,2,0,5,55,0,0,0,0,5,0,79.6,£4.5m
+691,Defender,Issa Diop,Fulham,2024/25,31,15,1334,0,0,1,19,112,1,0,0,0,0,38.3,£4.5m
+692,Defender,Issa Diop,Fulham,2023/24,43,16,1423,0,0,5,26,0,0,0,0,3,1,40.8,£4.5m
+693,Defender,Issa Diop,Fulham,2022/23,79,21,2008,1,0,7,26,0,0,0,0,8,0,58.1,£4.5m
+694,Defender,Nico O'Reilly,Man City,2024/25,31,6,525,2,0,3,3,24,0,0,0,4,0,32.2,£5.0m
+695,Defender,Nico O'Reilly,Man City,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+696,Midfielder,Nico González Iglesias,Man City,2024/25,31,9,760,1,1,6,7,76,0,0,0,0,0,27.5,£6.0m
+697,Midfielder,James McAtee,Man City,2024/25,31,3,340,3,0,0,6,16,0,0,0,0,0,30.7,£5.5m
+698,Midfielder,James McAtee,Man City,2023/24,77,20,1815,3,4,2,65,0,0,0,0,0,0,106.0,£5.5m
+699,Midfielder,James McAtee,Man City,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+700,Midfielder,Diego Gómez Amarilla,Brighton,2024/25,30,4,507,1,1,0,13,71,0,0,0,2,0,33.6,£5.0m
+701,Defender,John Stones,Man City,2024/25,29,6,544,2,0,1,11,31,0,0,0,2,0,27.4,£5.5m
+702,Defender,John Stones,Man City,2023/24,53,12,1061,1,0,5,9,0,0,0,0,3,0,38.7,£5.5m
+703,Defender,John Stones,Man City,2022/23,93,21,1844,2,2,7,17,0,1,0,0,13,0,69.6,£5.5m
+704,Defender,Ollie Scarles,West Ham,2024/25,29,7,659,0,0,2,9,54,0,0,0,2,0,18.6,£4.5m
+705,Defender,Ollie Scarles,West Ham,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+706,Forward,Evan Ferguson,Brighton,2024/25,28,3,385,1,0,1,9,33,0,0,0,2,0,25.0,£5.5m
+707,Forward,Evan Ferguson,Brighton,2023/24,69,15,1356,6,1,2,28,0,0,0,0,5,0,77.3,£5.5m
+708,Forward,Evan Ferguson,Brighton,2022/23,65,10,942,6,2,6,12,0,0,0,0,8,0,79.9,£5.5m
+709,Defender,Ben Davies,Spurs,2024/25,28,14,1329,0,0,3,26,127,0,0,0,0,0,43.7,£4.5m
+710,Defender,Ben Davies,Spurs,2023/24,34,12,1085,1,2,1,21,0,0,0,0,0,0,50.3,£4.5m
+711,Defender,Ben Davies,Spurs,2022/23,99,26,2284,2,3,9,33,0,0,0,0,3,0,89.9,£4.5m
+712,Midfielder,Reiss Nelson,Arsenal,2024/25,27,5,483,1,1,1,9,45,0,0,0,2,0,55.1,£5.0m
+713,Midfielder,Reiss Nelson,Arsenal,2023/24,16,1,256,0,0,1,1,0,0,0,0,0,0,16.9,£5.0m
+714,Midfielder,Reiss Nelson,Arsenal,2022/23,42,0,202,3,3,1,3,0,0,0,0,5,0,48.0,£5.0m
+715,Defender,Axel Tuanzebe,Burnley,2024/25,27,20,1710,0,1,1,38,118,1,0,0,0,1,40.1,£4.0m
+716,Defender,Axel Tuanzebe,Burnley,2021/22,14,0,505,0,0,1,10,0,0,0,0,0,0,11.5,£4.0m
+717,Defender,Axel Tuanzebe,Burnley,2020/21,7,0,402,0,0,0,8,0,1,0,0,0,0,10.0,£4.0m
+718,Defender,Michael Kayode,Brentford,2024/25,27,6,523,0,1,2,5,41,0,0,0,0,0,24.2,£4.5m
+719,Midfielder,Kalvin Phillips,Man City,2024/25,27,14,1231,0,0,1,30,163,0,0,0,0,1,33.8,£5.0m
+720,Midfielder,Kalvin Phillips,Man City,2023/24,10,3,394,0,0,0,13,0,0,0,0,0,1,9.1,£5.0m
+721,Midfielder,Kalvin Phillips,Man City,2022/23,14,2,291,0,0,1,3,0,0,0,0,0,0,12.7,£5.0m
+722,Midfielder,Alex Scott,Bournemouth,2024/25,26,8,745,0,0,3,8,104,0,0,0,0,0,43.2,£5.0m
+723,Midfielder,Alex Scott,Bournemouth,2023/24,41,11,1003,1,1,3,25,0,0,0,0,3,0,60.7,£5.0m
+724,Defender,Wesley Fofana,Chelsea,2024/25,26,14,1172,0,0,2,13,88,0,0,0,2,0,31.9,£4.5m
+725,Defender,Wesley Fofana,Chelsea,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+726,Defender,Wesley Fofana,Chelsea,2022/23,37,14,1362,1,0,2,24,0,0,0,0,4,0,44.4,£4.5m
+727,Midfielder,Roméo Lavia,Chelsea,2024/25,26,11,792,0,1,3,11,88,0,0,0,0,0,24.4,£5.0m
+728,Midfielder,Roméo Lavia,Chelsea,2023/24,1,0,32,0,0,0,0,0,0,0,0,0,0,0.6,£5.0m
+729,Midfielder,Roméo Lavia,Chelsea,2022/23,57,26,2219,1,1,4,50,0,0,0,0,0,0,64.5,£5.0m
+730,Defender,Nathan Aké,Man City,2024/25,25,8,677,0,0,3,11,36,0,0,0,0,0,15.9,£5.5m
+731,Defender,Nathan Aké,Man City,2023/24,99,24,2039,2,3,6,20,0,0,0,0,6,0,89.7,£5.5m
+732,Defender,Nathan Aké,Man City,2022/23,92,22,1871,1,0,9,15,0,0,0,0,9,0,73.3,£5.5m
+733,Midfielder,Mason Mount,Man Utd,2024/25,25,8,613,1,0,3,11,42,0,0,0,0,0,45.6,£6.0m
+734,Midfielder,Mason Mount,Man Utd,2023/24,23,5,509,1,0,1,13,0,0,0,0,0,0,27.9,£6.0m
+735,Midfielder,Mason Mount,Man Utd,2022/23,82,20,1644,3,4,8,21,0,0,0,0,8,0,117.2,£6.0m
+736,Defender,Radu Drăgușin,Spurs,2024/25,24,14,1250,0,0,2,29,87,0,0,0,0,0,36.2,£4.5m
+737,Defender,Radu Drăgușin,Spurs,2023/24,14,4,424,0,0,1,7,0,0,0,0,0,0,11.0,£4.5m
+738,Midfielder,Luis Sinisterra Lucumí,Bournemouth,2024/25,23,1,229,1,1,0,4,32,0,0,0,2,0,42.3,£5.0m
+739,Midfielder,Luis Sinisterra Lucumí,Bournemouth,2023/24,43,7,685,2,2,1,18,0,0,0,0,2,0,81.7,£5.0m
+740,Midfielder,Luis Sinisterra Lucumí,Bournemouth,2022/23,53,13,863,5,0,0,23,0,0,0,0,6,1,70.6,£5.0m
+741,Midfielder,Romain Esse,Crystal Palace,2024/25,22,1,138,1,2,0,3,20,0,0,0,3,0,16.4,£5.0m
+742,Midfielder,Tim Iroegbunam,Everton,2024/25,22,5,562,0,1,0,16,111,0,0,0,0,0,19.6,£5.0m
+743,Midfielder,Tim Iroegbunam,Everton,2023/24,10,1,157,0,0,0,7,0,0,0,0,0,0,2.1,£5.0m
+744,Midfielder,Tim Iroegbunam,Everton,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+745,Defender,Leny Yoro,Man Utd,2024/25,22,12,1160,0,0,1,24,93,0,0,0,0,0,31.8,£4.5m
+746,Midfielder,Endo Wataru,Liverpool,2024/25,21,1,259,0,0,0,5,41,0,0,0,0,0,10.0,£5.0m
+747,Midfielder,Endo Wataru,Liverpool,2023/24,47,20,1714,1,0,6,16,0,0,0,0,0,0,60.1,£5.0m
+748,Midfielder,Lewis Miley,Newcastle,2024/25,21,1,304,1,0,0,4,38,0,0,0,1,0,16.7,£4.5m
+749,Midfielder,Lewis Miley,Newcastle,2023/24,44,14,1203,1,3,1,29,0,0,0,0,1,0,56.7,£4.5m
+750,Midfielder,Lewis Miley,Newcastle,2022/23,1,0,14,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+751,Midfielder,Ibrahim Sangaré,Nott'm Forest,2024/25,20,7,584,0,1,2,6,93,0,0,0,0,0,23.2,£5.0m
+752,Midfielder,Ibrahim Sangaré,Nott'm Forest,2023/24,25,13,1031,0,0,4,16,0,0,0,0,0,0,32.5,£5.0m
+753,Defender,Ferdi Kadıoğlu,Brighton,2024/25,19,5,385,1,0,2,8,37,0,0,0,0,0,24.0,£4.5m
+754,Midfielder,Cheick Doucouré,Crystal Palace,2024/25,19,4,443,0,1,1,6,68,0,0,0,0,0,10.8,£5.0m
+755,Midfielder,Cheick Doucouré,Crystal Palace,2023/24,21,11,920,0,0,3,12,0,0,0,0,0,0,34.2,£5.0m
+756,Midfielder,Cheick Doucouré,Crystal Palace,2022/23,74,34,2770,0,3,7,41,0,0,0,0,3,1,99.8,£5.0m
+757,Goalkeeper,Mark Travers,Everton,2024/25,19,5,450,0,0,1,5,0,0,0,20,1,0,14.6,£4.5m
+758,Goalkeeper,Mark Travers,Everton,2023/24,19,4,360,0,0,2,5,0,0,0,13,2,0,9.3,£4.5m
+759,Goalkeeper,Mark Travers,Everton,2022/23,28,11,1035,0,0,2,32,0,0,0,36,1,0,29.1,£4.5m
+760,Forward,William Osula,Newcastle,2024/25,19,0,124,1,0,0,3,9,0,0,0,1,0,10.5,£5.5m
+761,Forward,William Osula,Newcastle,2023/24,25,9,778,0,1,0,23,0,0,0,0,0,0,24.4,£5.5m
+762,Forward,William Osula,Newcastle,2020/21,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+763,Midfielder,Mikey Moore,Spurs,2024/25,19,3,359,0,2,0,5,19,0,0,0,0,0,11.0,£5.0m
+764,Midfielder,Mikey Moore,Spurs,2023/24,2,0,3,0,0,0,0,0,0,0,0,0,0,0.1,£5.0m
+765,Defender,Igor Julio dos Santos de Paulo,Brighton,2024/25,18,10,959,0,0,1,17,61,0,0,0,0,0,24.9,£4.5m
+766,Defender,Igor Julio dos Santos de Paulo,Brighton,2023/24,37,17,1631,0,0,2,26,0,0,0,0,1,0,45.8,£4.5m
+767,Goalkeeper,Filip Jörgensen,Chelsea,2024/25,18,6,540,0,0,1,9,0,0,0,20,0,0,15.9,£4.5m
+768,Defender,Nathaniel Clyne,Crystal Palace,2024/25,18,5,477,0,0,1,11,30,0,0,0,0,0,12.4,£4.0m
+769,Defender,Nathaniel Clyne,Crystal Palace,2023/24,52,14,1335,0,1,5,16,0,0,0,0,0,0,27.0,£4.0m
+770,Defender,Nathaniel Clyne,Crystal Palace,2022/23,44,19,1638,0,0,3,23,0,0,0,0,0,0,33.6,£4.0m
+771,Midfielder,Kiernan Dewsbury-Hall,Everton,2024/25,18,2,257,0,1,0,3,26,0,0,0,1,0,12.6,£5.0m
+772,Midfielder,Kiernan Dewsbury-Hall,Everton,2022/23,82,28,2305,2,3,7,41,0,0,0,0,5,1,123.7,£5.0m
+773,Midfielder,Kiernan Dewsbury-Hall,Everton,2021/22,70,0,2101,1,2,8,27,0,0,0,0,4,0,110.6,£5.0m
+774,Defender,Patrick Dorgu,Man Utd,2024/25,18,10,840,0,0,2,12,54,0,0,0,1,1,39.4,£4.5m
+775,Defender,Sven Botman,Newcastle,2024/25,18,6,412,0,0,2,4,46,0,0,0,0,0,23.6,£5.0m
+776,Defender,Sven Botman,Newcastle,2023/24,51,15,1375,2,2,3,29,0,1,0,0,4,0,55.5,£5.0m
+777,Defender,Sven Botman,Newcastle,2022/23,129,35,3127,0,2,13,30,0,0,0,0,8,0,101.0,£5.0m
+778,Defender,James Hill,Bournemouth,2024/25,17,6,443,0,1,1,9,55,0,0,0,0,0,16.6,£4.0m
+779,Defender,James Hill,Bournemouth,2023/24,5,1,74,0,0,0,1,0,0,0,0,0,0,3.5,£4.0m
+780,Defender,James Hill,Bournemouth,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+781,Midfielder,Tyrique George,Chelsea,2024/25,17,1,177,1,1,1,0,9,0,0,0,0,0,17.1,£5.0m
+782,Midfielder,Tyrique George,Chelsea,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+783,Defender,Emil Krafth,Newcastle,2024/25,17,2,334,0,0,1,2,26,0,0,0,0,0,9.3,£4.5m
+784,Defender,Emil Krafth,Newcastle,2023/24,33,8,909,0,0,3,15,0,0,0,0,1,0,33.8,£4.5m
+785,Defender,Emil Krafth,Newcastle,2022/23,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+786,Goalkeeper,Antonín Kinský,Spurs,2024/25,17,6,540,0,0,1,11,0,0,0,24,0,0,21.7,£4.0m
+787,Defender,Kevin Danso,Spurs,2024/25,16,9,842,0,0,1,18,97,0,0,0,0,0,34.9,£4.5m
+788,Defender,Kevin Danso,Spurs,2019/20,9,0,275,0,1,1,8,0,0,0,0,0,1,8.9,£4.5m
+789,Defender,Nathan Patterson,Everton,2024/25,14,3,342,0,1,0,6,18,0,0,0,0,0,15.5,£4.5m
+790,Defender,Nathan Patterson,Everton,2023/24,34,9,1000,0,2,2,21,0,0,0,0,3,0,37.3,£4.5m
+791,Defender,Nathan Patterson,Everton,2022/23,31,14,1274,0,0,2,22,0,0,0,0,0,0,45.3,£4.5m
+792,Defender,Joe Gomez,Liverpool,2024/25,14,6,517,0,0,1,8,45,0,0,0,0,0,22.8,£5.0m
+793,Defender,Joe Gomez,Liverpool,2023/24,76,17,1772,0,2,7,19,0,0,0,0,2,0,77.7,£5.0m
+794,Defender,Joe Gomez,Liverpool,2022/23,68,15,1461,0,0,8,16,0,0,0,0,8,0,39.7,£5.0m
+795,Defender,Abdukodir Khusanov,Man City,2024/25,14,6,503,0,0,2,6,40,1,0,0,0,0,14.1,£5.5m
+796,Defender,Kyle Walker,Burnley,2024/25,13,9,966,0,0,0,21,35,0,0,0,0,0,33.5,£4.5m
+797,Defender,Kyle Walker,Burnley,2023/24,123,30,2766,0,5,10,29,0,0,0,0,13,0,112.6,£4.5m
+798,Defender,Kyle Walker,Burnley,2022/23,69,22,1953,0,0,7,20,0,0,0,0,0,0,47.7,£4.5m
+799,Defender,Julián Araujo Zúñiga,Bournemouth,2024/25,12,7,492,0,0,0,10,32,0,0,0,0,0,9.2,£4.0m
+800,Midfielder,Luis Guilherme Lira dos Santos,West Ham,2024/25,12,1,139,0,0,0,5,12,0,0,0,0,0,10.8,£5.0m
+801,Goalkeeper,Sam Johnstone,Wolves,2024/25,12,7,630,0,0,0,17,0,0,0,23,0,0,20.4,£4.5m
+802,Goalkeeper,Sam Johnstone,Wolves,2023/24,68,20,1796,0,0,6,27,0,0,0,41,7,0,32.2,£4.5m
+803,Goalkeeper,Sam Johnstone,Wolves,2022/23,36,9,810,0,0,3,10,0,0,0,26,5,0,17.8,£4.5m
+804,Midfielder,Emiliano Buendía Stati,Aston Villa,2024/25,11,0,89,0,0,0,2,16,0,0,0,0,0,5.2,£5.5m
+805,Midfielder,Emiliano Buendía Stati,Aston Villa,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+806,Midfielder,Emiliano Buendía Stati,Aston Villa,2022/23,117,27,2404,5,3,11,34,0,0,0,0,8,0,158.5,£5.5m
+807,Midfielder,Philip Billing,Bournemouth,2024/25,10,1,176,0,0,0,4,35,0,0,0,0,0,20.4,£5.0m
+808,Midfielder,Philip Billing,Bournemouth,2023/24,60,13,1385,2,3,2,36,0,0,0,0,3,1,88.3,£5.0m
+809,Midfielder,Philip Billing,Bournemouth,2022/23,126,34,2766,7,2,9,54,0,0,0,0,14,0,148.4,£5.0m
+810,Midfielder,Yunus Emre Konak,Brentford,2024/25,10,0,53,0,0,0,2,6,0,0,0,0,0,1.2,£4.5m
+811,Midfielder,Yunus Emre Konak,Brentford,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+812,Midfielder,Josh King,Fulham,2024/25,10,1,126,0,0,1,0,14,0,0,0,0,0,11.2,£4.5m
+813,Midfielder,Josh King,Fulham,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+814,Midfielder,Harrison Reed,Fulham,2024/25,10,0,100,0,0,0,3,19,0,0,0,0,0,7.1,£4.5m
+815,Midfielder,Harrison Reed,Fulham,2023/24,47,15,1317,0,2,6,23,0,0,0,0,0,0,47.2,£4.5m
+816,Midfielder,Harrison Reed,Fulham,2022/23,107,35,2868,3,4,9,44,0,1,0,0,9,0,125.8,£4.5m
+817,Defender,Ayden Heaven,Man Utd,2024/25,10,2,169,0,0,1,1,18,0,0,0,2,0,6.4,£4.0m
+818,Forward,Igor Thiago Nascimento Rodrigues,Brentford,2024/25,9,1,167,0,0,0,4,22,0,0,0,0,0,5.8,£6.0m
+819,Goalkeeper,Jason Steele,Brighton,2024/25,9,2,180,0,0,1,1,0,0,0,3,1,0,4.1,£4.5m
+820,Goalkeeper,Jason Steele,Brighton,2023/24,42,17,1530,0,0,2,34,0,0,0,43,5,0,38.2,£4.5m
+821,Goalkeeper,Jason Steele,Brighton,2022/23,65,15,1350,0,1,6,23,0,1,1,37,8,0,39.1,£4.5m
+822,Midfielder,Matheus França de Oliveira,Crystal Palace,2024/25,9,0,52,1,0,0,0,8,0,0,0,0,0,11.5,£4.5m
+823,Midfielder,Matheus França de Oliveira,Crystal Palace,2023/24,16,1,224,0,2,0,7,0,0,0,0,0,0,16.5,£4.5m
+824,Defender,Jorge Cuenca Barreno,Fulham,2024/25,9,4,349,0,0,0,8,38,0,0,0,0,0,8.6,£4.5m
+825,Midfielder,Andy Irving,West Ham,2024/25,9,1,161,0,0,0,4,24,0,0,0,0,0,8.1,£4.5m
+826,Goalkeeper,Daniel Bentley,Wolves,2024/25,9,2,180,0,0,1,4,0,0,0,8,1,0,6.0,£4.0m
+827,Goalkeeper,Daniel Bentley,Wolves,2023/24,18,3,382,0,0,2,7,0,0,0,8,1,0,7.1,£4.0m
+828,Goalkeeper,Daniel Bentley,Wolves,2022/23,6,2,180,0,0,0,3,0,0,0,11,0,0,7.0,£4.0m
+829,Defender,Andrés García,Aston Villa,2024/25,8,5,316,0,0,0,5,19,0,0,0,0,0,12.0,£4.0m
+830,Midfielder,Paris Maghoma,Brentford,2024/25,8,0,112,0,0,0,1,13,0,0,0,0,0,5.4,£4.5m
+831,Midfielder,Paris Maghoma,Brentford,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+832,Goalkeeper,Altay Bayındır,Man Utd,2024/25,8,4,360,0,0,1,10,0,0,0,8,0,0,7.9,£5.0m
+833,Goalkeeper,Altay Bayındır,Man Utd,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+834,Midfielder,Antony dos Santos,Man Utd,2024/25,8,0,135,0,0,0,2,19,0,0,0,0,0,15.8,£6.0m
+835,Midfielder,Antony dos Santos,Man Utd,2023/24,47,15,1311,1,1,3,26,0,0,0,0,0,0,91.8,£6.0m
+836,Midfielder,Antony dos Santos,Man Utd,2022/23,82,23,1803,4,2,12,21,0,0,0,0,4,0,137.1,£6.0m
+837,Goalkeeper,Norberto Murara Neto,Bournemouth,2024/25,7,2,180,0,0,0,2,0,0,0,11,0,0,7.8,£4.5m
+838,Goalkeeper,Norberto Murara Neto,Bournemouth,2023/24,110,32,2880,0,0,7,55,0,0,1,113,14,0,87.5,£4.5m
+839,Goalkeeper,Norberto Murara Neto,Bournemouth,2022/23,93,27,2385,0,0,6,39,0,0,0,100,9,0,72.8,£4.5m
+840,Midfielder,Solly March,Brighton,2024/25,7,1,161,0,0,0,3,16,0,0,0,0,0,10.1,£6.0m
+841,Midfielder,Solly March,Brighton,2023/24,39,7,555,3,1,2,11,0,0,0,0,6,0,46.4,£6.0m
+842,Midfielder,Solly March,Brighton,2022/23,147,31,2719,6,10,10,40,0,0,0,0,16,0,271.4,£6.0m
+843,Defender,Benoît Badiashile Mukinayi,Chelsea,2024/25,7,3,332,0,0,0,5,29,0,0,0,0,0,7.9,£4.5m
+844,Defender,Benoît Badiashile Mukinayi,Chelsea,2023/24,35,15,1337,0,1,3,31,0,1,0,0,4,0,47.5,£4.5m
+845,Defender,Benoît Badiashile Mukinayi,Chelsea,2022/23,40,10,904,1,0,4,9,0,0,0,0,2,0,35.1,£4.5m
+846,Midfielder,Mykhailo Mudryk,Chelsea,2024/25,7,1,145,0,0,0,2,13,0,0,0,0,0,8.5,£5.0m
+847,Midfielder,Mykhailo Mudryk,Chelsea,2023/24,94,18,1564,5,5,7,28,0,0,0,0,5,0,122.4,£5.0m
+848,Midfielder,Mykhailo Mudryk,Chelsea,2022/23,25,7,650,0,2,0,10,0,0,0,0,0,0,38.2,£5.0m
+849,Forward,Odsonne Édouard,Crystal Palace,2024/25,7,1,141,0,0,0,3,10,0,0,0,0,0,8.0,£5.0m
+850,Forward,Odsonne Édouard,Crystal Palace,2023/24,79,17,1545,7,0,6,24,0,0,0,0,9,0,128.0,£5.0m
+851,Forward,Odsonne Édouard,Crystal Palace,2022/23,82,20,1788,5,2,5,25,0,0,0,0,5,0,113.2,£5.0m
+852,Midfielder,Federico Chiesa,Liverpool,2024/25,7,1,103,0,0,0,3,8,0,0,0,0,0,6.7,£6.5m
+853,Forward,Chido Obi,Man Utd,2024/25,7,1,160,0,0,0,5,12,0,0,0,0,0,5.4,£4.5m
+854,Defender,Lamare Bogarde,Aston Villa,2024/25,6,5,473,0,0,0,11,30,0,0,0,0,0,13.3,£4.0m
+855,Defender,Lamare Bogarde,Aston Villa,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+856,Defender,Lamare Bogarde,Aston Villa,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+857,Midfielder,James Milner,Brighton,2024/25,6,3,170,0,0,1,1,13,0,0,0,0,0,10.7,£5.0m
+858,Midfielder,James Milner,Brighton,2023/24,28,11,770,0,2,4,12,0,0,0,0,0,0,46.8,£5.0m
+859,Midfielder,James Milner,Brighton,2022/23,42,7,889,0,1,3,12,0,0,0,0,0,0,49.5,£5.0m
+860,Midfielder,Toby Collyer,Man Utd,2024/25,6,0,174,0,0,0,2,35,0,0,0,0,0,7.9,£4.5m
+861,Midfielder,Toby Collyer,Man Utd,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+862,Defender,Willy Boly,Nott'm Forest,2024/25,6,1,146,0,0,0,1,23,0,0,0,0,0,6.8,£4.0m
+863,Defender,Willy Boly,Nott'm Forest,2023/24,58,18,1437,2,1,3,26,0,0,0,0,7,1,78.1,£4.0m
+864,Defender,Willy Boly,Nott'm Forest,2022/23,37,9,684,0,1,3,10,0,0,0,0,7,0,21.0,£4.0m
+865,Forward,Dane Scarlett,Spurs,2024/25,6,0,31,0,1,0,1,5,0,0,0,0,0,5.2,£4.5m
+866,Forward,Dane Scarlett,Spurs,2023/24,4,0,19,0,0,0,0,0,0,0,0,0,0,0.8,£4.5m
+867,Forward,Dane Scarlett,Spurs,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+868,Defender,Séamus Coleman,Everton,2024/25,5,3,214,0,0,0,4,14,0,0,0,0,0,7.1,£4.5m
+869,Defender,Séamus Coleman,Everton,2023/24,30,7,661,0,0,4,10,0,1,0,0,3,0,16.5,£4.5m
+870,Defender,Séamus Coleman,Everton,2022/23,63,20,1654,1,0,5,25,0,0,0,0,5,0,50.4,£4.5m
+871,Defender,Luke Shaw,Man Utd,2024/25,5,4,346,0,0,0,5,14,1,0,0,0,0,12.7,£4.5m
+872,Defender,Luke Shaw,Man Utd,2023/24,31,12,960,0,1,4,13,0,0,0,0,0,0,42.6,£4.5m
+873,Defender,Luke Shaw,Man Utd,2022/23,124,30,2552,1,4,12,35,0,0,0,0,20,0,124.2,£4.5m
+874,Midfielder,Ben Winterburn,Bournemouth,2024/25,4,0,22,0,0,0,0,4,0,0,0,0,0,0.4,£4.5m
+875,Defender,Rico Henry,Brentford,2024/25,4,0,94,0,0,0,3,6,0,0,0,0,0,1.7,£4.5m
+876,Defender,Rico Henry,Brentford,2023/24,13,5,401,0,1,1,5,0,0,0,0,0,0,15.7,£4.5m
+877,Defender,Rico Henry,Brentford,2022/23,112,37,3240,0,3,11,46,0,0,0,0,4,0,107.0,£4.5m
+878,Defender,Josh Acheampong,Chelsea,2024/25,4,2,168,0,0,0,3,4,0,0,0,0,0,2.9,£4.0m
+879,Defender,Josh Acheampong,Chelsea,2023/24,1,0,5,0,0,0,0,0,0,0,0,0,0,1.5,£4.0m
+880,Defender,Harry Amass,Man Utd,2024/25,4,4,345,0,0,0,9,18,0,0,0,0,0,8.2,£4.0m
+881,Defender,Harry Amass,Man Utd,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+882,Defender,Julio Soler Barreto,Bournemouth,2024/25,3,0,9,0,0,0,1,1,0,0,0,0,0,0.4,£4.0m
+883,Defender,Kim Ji-soo,Brentford,2024/25,3,0,28,0,0,0,0,2,0,0,0,0,0,0.6,£4.0m
+884,Defender,Kim Ji-soo,Brentford,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+885,Midfielder,Gustavo Nunes Fernandes Gomes,Brentford,2024/25,3,0,11,0,0,0,2,5,0,0,0,0,0,1.2,£5.0m
+886,Forward,Youssef Ramalho Chermiti,Everton,2024/25,3,0,42,0,0,0,0,0,0,0,0,0,0,3.0,£5.0m
+887,Forward,Youssef Ramalho Chermiti,Everton,2023/24,16,1,196,0,0,1,4,0,0,0,0,0,0,14.9,£5.0m
+888,Midfielder,Rodrigo 'Rodri' Hernandez Cascante,Man City,2024/25,3,1,72,0,0,0,1,11,0,0,0,0,0,3.0,£6.5m
+889,Midfielder,Rodrigo 'Rodri' Hernandez Cascante,Man City,2023/24,159,34,2931,8,10,14,26,0,0,0,0,19,1,242.3,£6.5m
+890,Midfielder,Rodrigo 'Rodri' Hernandez Cascante,Man City,2022/23,108,34,2911,2,6,11,26,0,0,0,0,7,0,176.9,£6.5m
+891,Midfielder,Oscar Bobb,Man City,2024/25,3,0,14,0,0,0,1,2,0,0,0,0,0,1.6,£5.5m
+892,Midfielder,Oscar Bobb,Man City,2023/24,30,2,294,1,2,1,5,0,0,0,0,2,0,36.0,£5.5m
+893,Forward,Marc Guiu Paz,Sunderland,2024/25,3,0,71,0,0,0,2,3,0,0,0,0,0,2.2,£4.5m
+894,Forward,Will Lankshear,Spurs,2024/25,3,0,10,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+895,Defender,Yerson Mosquera Valdelamar,Wolves,2024/25,3,5,441,0,0,0,12,45,0,0,0,0,0,16.0,£4.5m
+896,Defender,Yerson Mosquera Valdelamar,Wolves,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+897,Defender,Yerson Mosquera Valdelamar,Wolves,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+898,Goalkeeper,Hákon Rafn Valdimarsson,Brentford,2024/25,2,1,144,0,0,0,2,0,0,0,3,0,0,2.1,£4.0m
+899,Goalkeeper,Hákon Rafn Valdimarsson,Brentford,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+900,Midfielder,Frank Onyeka,Brentford,2024/25,2,0,23,0,0,0,0,2,0,0,0,0,0,0.0,£5.0m
+901,Midfielder,Frank Onyeka,Brentford,2023/24,39,11,1147,1,2,1,27,0,0,0,0,0,0,62.6,£5.0m
+902,Midfielder,Frank Onyeka,Brentford,2022/23,38,8,837,0,3,3,11,0,0,0,0,0,0,34.2,£5.0m
+903,Defender,Caleb Kporha,Crystal Palace,2024/25,2,0,11,0,0,0,1,3,0,0,0,0,0,1.3,£4.0m
+904,Midfielder,Asher Agbinone,Crystal Palace,2024/25,2,0,4,0,0,0,0,2,0,0,0,0,0,1.5,£4.5m
+905,Midfielder,Harrison Armstrong,Everton,2024/25,2,0,47,0,0,0,1,3,0,0,0,0,0,2.2,£4.5m
+906,Midfielder,Martial Godo,Fulham,2024/25,2,0,21,0,0,0,0,2,0,0,0,0,0,3.0,£4.5m
+907,Midfielder,Martial Godo,Fulham,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+908,Defender,Tyler Fredricson,Man Utd,2024/25,2,2,166,0,0,0,5,17,0,0,0,0,0,4.4,£4.0m
+909,Defender,Tyrell Malacia,Man Utd,2024/25,2,2,99,0,0,0,1,4,0,0,0,0,0,1.7,£4.0m
+910,Defender,Tyrell Malacia,Man Utd,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+911,Defender,Tyrell Malacia,Man Utd,2022/23,62,14,1391,0,0,7,14,0,0,0,0,8,0,45.3,£4.0m
+912,Defender,Matt Targett,Newcastle,2024/25,2,0,20,0,0,0,0,1,0,0,0,0,0,1.0,£4.0m
+913,Defender,Matt Targett,Newcastle,2023/24,2,1,77,0,0,0,4,0,0,0,0,0,0,2.2,£4.0m
+914,Defender,Matt Targett,Newcastle,2022/23,35,6,600,0,0,3,6,0,0,0,0,2,0,26.3,£4.0m
+915,Midfielder,Eric da Silva Moreira,Nott'm Forest,2024/25,2,0,28,0,0,0,0,5,0,0,0,0,0,0.6,£4.5m
+916,Midfielder,Lewis Orford,West Ham,2024/25,2,0,47,0,0,0,1,8,0,0,0,0,0,4.0,£4.5m
+917,Midfielder,Lewis Orford,West Ham,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+918,Defender,Pedro Cardoso de Lima,Wolves,2024/25,2,1,69,0,0,0,2,7,0,0,0,0,0,6.9,£4.0m
+919,Midfielder,Zain Silcott-Duberry,Bournemouth,2024/25,1,0,1,0,0,0,0,1,0,0,0,0,0,0.3,£4.5m
+920,Defender,Jayden Meghoma,Brentford,2024/25,1,0,4,0,0,0,0,0,0,0,0,0,0,0.1,£4.0m
+921,Midfielder,Ryan Trevitt,Brentford,2024/25,1,0,3,0,0,0,0,3,0,0,0,0,0,0.3,£4.5m
+922,Midfielder,Ryan Trevitt,Brentford,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+923,Midfielder,Ryan Trevitt,Brentford,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+924,Defender,Eiran Cashin,Brighton,2024/25,1,0,19,0,0,0,2,2,0,0,0,0,0,0.7,£4.0m
+925,Midfielder,Jeremy Sarmiento Morante,Brighton,2024/25,1,0,8,0,0,0,0,1,0,0,0,0,0,0.1,£5.0m
+926,Midfielder,Jeremy Sarmiento Morante,Brighton,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+927,Midfielder,Jeremy Sarmiento Morante,Brighton,2022/23,16,1,168,0,2,1,2,0,0,0,0,0,0,12.9,£5.0m
+928,Defender,Chadi Riad Dnanou,Crystal Palace,2024/25,1,1,90,0,0,0,2,7,0,0,0,0,0,2.0,£4.0m
+929,Forward,Jayden Danns,Liverpool,2024/25,1,0,10,0,0,0,1,0,0,0,0,0,0,0.0,£4.5m
+930,Forward,Jayden Danns,Liverpool,2023/24,1,0,7,0,0,0,0,0,0,0,0,0,0,0.2,£4.5m
+931,Defender,Vitor de Oliveira Nunes dos Reis,Man City,2024/25,1,0,1,0,0,0,0,1,0,0,0,0,0,0.3,£5.0m
+932,Midfielder,Claudio Echeverri,Man City,2024/25,1,0,5,0,0,0,0,2,0,0,0,0,0,0.3,£5.5m
+933,Goalkeeper,Brandon Austin,Spurs,2024/25,1,1,90,0,0,0,2,0,0,0,2,0,0,2.0,£4.0m
+934,Goalkeeper,Brandon Austin,Spurs,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+935,Goalkeeper,Brandon Austin,Spurs,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+936,Defender,Kaelan Casey,West Ham,2024/25,1,0,1,0,0,0,0,1,0,0,0,0,0,0.2,£4.0m
+937,Defender,Kaelan Casey,West Ham,2023/24,1,0,1,0,0,0,0,0,0,0,0,0,0,0.2,£4.0m
+938,Defender,Kaelan Casey,West Ham,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+939,Midfielder,Maxwel Cornet,West Ham,2024/25,1,1,71,0,0,0,4,9,0,0,0,0,0,2.2,£5.0m
+940,Midfielder,Maxwel Cornet,West Ham,2023/24,13,1,109,1,0,0,3,0,0,0,0,0,0,14.6,£5.0m
+941,Midfielder,Maxwel Cornet,West Ham,2022/23,14,2,232,0,0,0,5,0,0,0,0,0,0,12.5,£5.0m
+942,Goalkeeper,Tom King,Wolves,2024/25,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+943,Goalkeeper,Tom King,Wolves,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+944,Defender,Alfie Pond,Wolves,2024/25,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+945,Midfielder,Boubacar Traoré,Wolves,2024/25,1,0,1,0,0,0,0,2,0,0,0,0,0,0.4,£5.0m
+946,Midfielder,Boubacar Traoré,Wolves,2023/24,25,7,802,0,0,0,23,0,0,0,0,0,0,25.2,£5.0m
+947,Midfielder,Boubacar Traoré,Wolves,2022/23,14,4,405,0,1,0,9,0,0,0,0,0,0,7.9,£5.0m
+948,Goalkeeper,Karl Hein,Arsenal,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+949,Goalkeeper,Karl Hein,Arsenal,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+950,Goalkeeper,Karl Hein,Arsenal,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+951,Goalkeeper,Tommy Setford,Arsenal,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+952,Defender,Brayden Clarke,Arsenal,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+953,Defender,Maldini Kacurri,Arsenal,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+954,Defender,Josh Nichols,Arsenal,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+955,Midfielder,Fábio Ferreira Vieira,Arsenal,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+956,Midfielder,Fábio Ferreira Vieira,Arsenal,2023/24,24,2,290,1,3,1,2,0,0,0,0,0,1,25.5,£5.5m
+957,Midfielder,Fábio Ferreira Vieira,Arsenal,2022/23,40,3,500,1,2,2,5,0,0,0,0,2,0,41.5,£5.5m
+958,Midfielder,Ismeal Kabia,Arsenal,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+959,Midfielder,Albert Sambi Lokonga,Arsenal,2023/24,47,16,1304,1,3,2,31,0,0,0,0,4,0,49.9,£4.5m
+960,Midfielder,Albert Sambi Lokonga,Arsenal,2022/23,23,8,728,0,0,2,8,0,0,0,0,0,0,17.6,£4.5m
+961,Midfielder,Albert Sambi Lokonga,Arsenal,2021/22,32,0,1129,0,0,7,11,0,0,0,0,0,0,56.3,£4.5m
+962,Forward,Viktor Gyökeres,Arsenal,2018/19,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£9.0m
+963,Goalkeeper,Joe Gauci,Aston Villa,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+964,Goalkeeper,Joe Gauci,Aston Villa,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+965,Goalkeeper,Filip Marschall,Aston Villa,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+966,Goalkeeper,Filip Marschall,Aston Villa,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+967,Goalkeeper,Filip Marschall,Aston Villa,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+968,Defender,Lino da Cruz Sousa,Aston Villa,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+969,Defender,Lino da Cruz Sousa,Aston Villa,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+970,Midfielder,Samuel Iling-Junior,Aston Villa,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+971,Midfielder,Enzo Barrenechea,Aston Villa,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+972,Midfielder,Lewis Dobbin,Aston Villa,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+973,Midfielder,Lewis Dobbin,Aston Villa,2023/24,18,1,226,1,0,1,3,0,0,0,0,0,0,17.7,£5.0m
+974,Midfielder,Lewis Dobbin,Aston Villa,2021/22,2,0,30,0,0,0,1,0,0,0,0,0,0,0.8,£5.0m
+975,Midfielder,Ben Broggio,Aston Villa,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+976,Midfielder,Leander Dendoncker,Aston Villa,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+977,Midfielder,Leander Dendoncker,Aston Villa,2023/24,20,1,118,1,1,0,3,0,0,0,0,3,0,10.0,£4.5m
+978,Midfielder,Leander Dendoncker,Aston Villa,2022/23,37,9,897,0,0,4,14,0,0,0,0,0,0,30.6,£4.5m
+979,Midfielder,Jamaldeen Jimoh-Aloba,Aston Villa,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+980,Midfielder,Kadan Young,Aston Villa,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+981,Midfielder,Kadan Young,Aston Villa,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+982,Midfielder,Kadan Young,Aston Villa,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+983,Defender,Connor Roberts,Burnley,2023/24,12,8,817,0,1,0,23,0,0,0,0,0,1,25.7,£4.5m
+984,Defender,Connor Roberts,Burnley,2021/22,69,0,1689,1,1,6,23,0,0,0,0,6,0,59.8,£4.5m
+985,Defender,Connor Roberts,Burnley,2017/18,7,0,267,0,0,0,4,0,0,0,0,0,0,4.1,£4.5m
+986,Defender,Hannes Delcroix,Burnley,2023/24,7,5,584,0,0,0,25,0,0,0,0,0,0,20.9,£4.0m
+987,Defender,Owen Dodgson,Burnley,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+988,Defender,Owen Dodgson,Burnley,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+989,Defender,Hjalmar Ekdal,Burnley,2023/24,15,5,436,0,0,1,8,0,0,0,0,3,0,10.7,£4.0m
+990,Defender,Maxime Estève,Burnley,2023/24,15,15,1310,0,0,0,28,0,0,0,0,0,0,29.9,£4.0m
+991,Defender,Bashir Humphreys,Burnley,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+992,Defender,Bashir Humphreys,Burnley,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+993,Defender,Jordan Beyer,Burnley,2023/24,30,15,1234,0,1,2,23,0,0,0,0,4,0,41.3,£4.0m
+994,Defender,Joe Worrall,Burnley,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+995,Defender,Joe Worrall,Burnley,2023/24,13,5,438,0,0,1,9,0,0,0,0,3,1,13.0,£4.0m
+996,Defender,Joe Worrall,Burnley,2022/23,61,21,2215,1,0,5,44,0,0,0,0,2,0,67.5,£4.0m
+997,Midfielder,Jaidon Anthony,Burnley,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+998,Midfielder,Jaidon Anthony,Burnley,2023/24,3,2,151,0,0,0,5,0,0,0,0,0,0,3.0,£5.5m
+999,Midfielder,Jaidon Anthony,Burnley,2022/23,61,11,1241,3,1,2,29,0,0,0,0,4,0,78.1,£5.5m
+1000,Midfielder,Manuel Benson Hedilazio,Burnley,2023/24,8,1,110,0,0,0,5,0,0,0,0,0,0,7.5,£5.5m
+1001,Midfielder,Jacob Bruun Larsen,Burnley,2023/24,82,16,1235,6,0,3,23,0,0,0,0,7,0,119.5,£5.5m
+1002,Midfielder,Enock Agyei,Burnley,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1003,Midfielder,Darko Churlinov,Burnley,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1004,Midfielder,Josh Cullen,Burnley,2023/24,65,23,2055,2,4,0,48,0,0,0,0,5,0,98.9,£5.0m
+1005,Midfielder,Josh Cullen,Burnley,2017/18,2,0,6,0,0,0,0,0,0,0,0,0,0,0.8,£5.0m
+1006,Midfielder,Josh Cullen,Burnley,2016/17,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1007,Midfielder,Hannibal Mejbri,Burnley,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1008,Midfielder,Hannibal Mejbri,Burnley,2023/24,11,1,131,1,0,1,1,0,0,0,0,0,0,9.0,£5.0m
+1009,Midfielder,Hannibal Mejbri,Burnley,2021/22,1,0,67,0,0,0,2,0,0,0,0,0,0,1.7,£5.0m
+1010,Midfielder,Luca Koleosho,Burnley,2023/24,40,13,972,1,2,3,23,0,0,0,0,0,0,44.5,£5.0m
+1011,Midfielder,Aaron Ramsey,Burnley,2023/24,18,5,522,0,0,0,17,0,0,0,0,0,0,12.7,£4.5m
+1012,Midfielder,Aaron Ramsey,Burnley,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1013,Midfielder,Mike Trésor Ndayishimiye,Burnley,2023/24,20,3,410,0,0,0,10,0,0,0,0,0,0,18.0,£4.5m
+1014,Midfielder,Lesley Ugochukwu,Burnley,2024/25,47,18,1652,1,1,1,39,164,0,0,0,3,0,55.9,£5.0m
+1015,Midfielder,Lesley Ugochukwu,Burnley,2023/24,13,3,296,0,0,1,6,0,0,0,0,0,0,10.9,£5.0m
+1016,Forward,Zeki Amdouni,Burnley,2023/24,85,27,1953,5,1,5,41,0,0,0,0,11,0,112.4,£5.0m
+1017,Forward,Lyle Foster,Burnley,2023/24,75,22,1898,5,3,2,43,0,0,0,0,4,1,109.6,£5.0m
+1018,Forward,Ashley Barnes,Burnley,2021/22,32,0,793,1,0,1,19,0,0,0,0,2,0,37.4,£4.5m
+1019,Forward,Ashley Barnes,Burnley,2020/21,52,0,1324,3,0,6,19,0,0,0,0,7,0,93.8,£4.5m
+1020,Forward,Ashley Barnes,Burnley,2019/20,61,0,1350,6,0,8,21,0,0,0,0,6,0,75.9,£4.5m
+1021,Forward,Michael Obafemi,Burnley,2023/24,2,0,19,0,0,0,0,0,0,0,0,0,0,1.7,£4.5m
+1022,Forward,Michael Obafemi,Burnley,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1023,Forward,Michael Obafemi,Burnley,2020/21,4,0,57,0,0,0,2,0,0,0,0,0,0,2.0,£4.5m
+1024,Forward,Armando Broja,Burnley,2024/25,12,4,327,0,0,2,2,17,0,0,0,0,0,10.9,£5.5m
+1025,Forward,Armando Broja,Burnley,2023/24,35,6,529,1,2,3,9,0,0,0,0,0,0,29.0,£5.5m
+1026,Forward,Armando Broja,Burnley,2022/23,21,2,285,1,1,1,5,0,0,0,0,0,0,19.7,£5.5m
+1027,Goalkeeper,Đorđe Petrović,Bournemouth,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1028,Goalkeeper,Đorđe Petrović,Bournemouth,2023/24,71,22,1986,0,0,5,38,0,0,0,75,5,0,56.8,£4.5m
+1029,Goalkeeper,Will Dennis,Bournemouth,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1030,Goalkeeper,Will Dennis,Bournemouth,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1031,Goalkeeper,Callan McKenna,Bournemouth,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1032,Goalkeeper,Callan McKenna,Bournemouth,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1033,Goalkeeper,Alex Paulsen,Bournemouth,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1034,Defender,Matai Akinmboni,Bournemouth,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1035,Defender,Owen Bevan,Bournemouth,2022/23,1,0,8,0,0,0,1,0,0,0,0,0,0,0.0,£4.0m
+1036,Defender,Chris Mepham,Bournemouth,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1037,Defender,Chris Mepham,Bournemouth,2023/24,16,6,613,0,1,1,16,0,0,0,0,0,0,21.0,£4.0m
+1038,Defender,Chris Mepham,Bournemouth,2022/23,43,24,2197,0,0,5,52,0,2,0,0,6,0,74.4,£4.0m
+1039,Midfielder,Romain Faivre,Bournemouth,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1040,Midfielder,Romain Faivre,Bournemouth,2023/24,4,0,37,0,0,0,1,0,0,0,0,0,0,1.8,£4.5m
+1041,Midfielder,Hamed Traorè,Bournemouth,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1042,Midfielder,Hamed Traorè,Bournemouth,2023/24,3,0,44,0,0,0,1,0,0,0,0,0,0,5.7,£4.5m
+1043,Midfielder,Hamed Traorè,Bournemouth,2022/23,14,5,425,0,0,2,8,0,0,0,0,0,0,33.8,£4.5m
+1044,Midfielder,Dominic Sadi,Bournemouth,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1045,Midfielder,Dominic Sadi,Bournemouth,2023/24,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1046,Midfielder,Dominic Sadi,Bournemouth,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1047,Forward,Daniel Adu-Adjei,Bournemouth,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1048,Forward,Daniel Adu-Adjei,Bournemouth,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1049,Goalkeeper,Ellery Balcombe,Brentford,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1050,Goalkeeper,Ellery Balcombe,Brentford,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1051,Goalkeeper,Ellery Balcombe,Brentford,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1052,Goalkeeper,Matthew Cox,Brentford,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1053,Goalkeeper,Matthew Cox,Brentford,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1054,Goalkeeper,Matthew Cox,Brentford,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1055,Goalkeeper,Julian Eyestone,Brentford,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1056,Defender,Benjamin Arthur,Brentford,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1057,Defender,Benjamin Arthur,Brentford,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1058,Defender,Benjamin Fredrick,Brentford,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1059,Defender,Benjamin Fredrick,Brentford,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1060,Defender,Aaron Hickey,Brentford,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1061,Defender,Aaron Hickey,Brentford,2023/24,17,9,713,0,0,2,12,0,0,0,0,0,0,12.9,£4.0m
+1062,Defender,Aaron Hickey,Brentford,2022/23,63,23,1918,0,3,5,30,0,0,0,0,2,0,45.1,£4.0m
+1063,Midfielder,Jordan Henderson,Brentford,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1064,Midfielder,Jordan Henderson,Brentford,2022/23,69,23,2060,0,3,8,30,0,0,0,0,0,0,103.0,£5.0m
+1065,Midfielder,Jordan Henderson,Brentford,2021/22,110,0,2592,2,5,15,22,0,0,0,0,9,0,139.2,£5.0m
+1066,Midfielder,Myles Peart-Harris,Brentford,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1067,Midfielder,Myles Peart-Harris,Brentford,2023/24,3,0,11,0,0,0,0,0,0,0,0,0,0,1.5,£4.5m
+1068,Midfielder,Myles Peart-Harris,Brentford,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1069,Forward,Iwan Morgan,Brentford,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1070,Goalkeeper,Tom McGill,Brighton,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1071,Goalkeeper,Tom McGill,Brighton,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1072,Goalkeeper,Tom McGill,Brighton,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1073,Goalkeeper,Carl Rushworth,Brighton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1074,Goalkeeper,Kjell Scherpen,Brighton,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1075,Goalkeeper,Kjell Scherpen,Brighton,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1076,Goalkeeper,Kjell Scherpen,Brighton,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1077,Defender,Jacob Slater,Brighton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1078,Defender,Charlie Tasker,Brighton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1079,Midfielder,Joe Knight,Brighton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1080,Midfielder,Adrian Mazilu,Brighton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1081,Midfielder,Andrew Moran,Brighton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1082,Midfielder,Andrew Moran,Brighton,2022/23,1,0,11,0,0,0,1,0,0,0,0,0,0,0.0,£4.5m
+1083,Goalkeeper,Gabriel Słonina,Chelsea,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1084,Defender,Aarón Anselmino,Chelsea,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1085,Midfielder,Andrey Nascimento dos Santos,Chelsea,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1086,Midfielder,Andrey Nascimento dos Santos,Chelsea,2023/24,1,0,7,0,0,0,0,0,0,0,0,0,0,0.2,£4.5m
+1087,Midfielder,Andrey Nascimento dos Santos,Chelsea,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1088,Goalkeeper,Remi Matthews,Crystal Palace,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1089,Goalkeeper,Remi Matthews,Crystal Palace,2023/24,1,0,3,0,0,0,1,0,0,0,0,0,0,0.1,£4.0m
+1090,Goalkeeper,Remi Matthews,Crystal Palace,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1091,Defender,Rob Holding,Crystal Palace,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1092,Defender,Rob Holding,Crystal Palace,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1093,Defender,Rob Holding,Crystal Palace,2022/23,21,6,562,1,0,0,13,0,0,0,0,0,0,21.6,£4.0m
+1094,Midfielder,Naouirou Ahamada,Crystal Palace,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1095,Midfielder,Naouirou Ahamada,Crystal Palace,2023/24,16,0,332,0,0,0,14,0,0,0,0,0,1,12.9,£4.5m
+1096,Midfielder,Naouirou Ahamada,Crystal Palace,2022/23,7,0,87,0,0,0,2,0,0,0,0,0,0,3.0,£4.5m
+1097,Midfielder,Malcolm Ebiowei,Crystal Palace,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1098,Midfielder,Malcolm Ebiowei,Crystal Palace,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1099,Midfielder,Malcolm Ebiowei,Crystal Palace,2022/23,3,0,31,0,0,0,1,0,0,0,0,0,0,0.9,£4.5m
+1100,Midfielder,Jesurun Rak-Sakyi,Crystal Palace,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1101,Midfielder,Jesurun Rak-Sakyi,Crystal Palace,2023/24,8,0,132,0,0,1,3,0,0,0,0,0,0,11.0,£4.5m
+1102,Midfielder,Jesurun Rak-Sakyi,Crystal Palace,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1103,Midfielder,David Ozoh,Crystal Palace,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1104,Midfielder,David Ozoh,Crystal Palace,2023/24,8,0,148,0,0,0,5,0,0,0,0,0,0,2.9,£4.5m
+1105,Midfielder,David Ozoh,Crystal Palace,2022/23,1,0,1,0,0,0,0,0,0,0,0,0,0,0.1,£4.5m
+1106,Midfielder,Kaden Rodney,Crystal Palace,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1107,Midfielder,Kaden Rodney,Crystal Palace,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1108,Midfielder,Kaden Rodney,Crystal Palace,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1109,Midfielder,Franco Umeh-Chibueze,Crystal Palace,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1110,Midfielder,Franco Umeh-Chibueze,Crystal Palace,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1111,Forward,Zach Marsh,Crystal Palace,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1112,Goalkeeper,Harry Tyrer,Everton,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1113,Goalkeeper,Harry Tyrer,Everton,2020/21,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1114,Defender,Roman Dixon,Everton,2024/25,0,1,90,0,0,0,4,8,0,0,0,0,0,1.6,£4.0m
+1115,Defender,Reece Welch,Everton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1116,Defender,Reece Welch,Everton,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1117,Defender,Reece Welch,Everton,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1118,Midfielder,Callum Bates,Everton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1119,Midfielder,Coby Ebere,Everton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1120,Midfielder,Isaac Heath,Everton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1121,Midfielder,Jenson Metcalfe,Everton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1122,Midfielder,Jenson Metcalfe,Everton,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1123,Forward,Martin Sherif,Everton,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1124,Goalkeeper,Steven Benda,Fulham,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1125,Goalkeeper,Steven Benda,Fulham,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1126,Defender,Samuel Amissah,Fulham,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1127,Midfielder,Luke Harris,Fulham,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1128,Midfielder,Luke Harris,Fulham,2023/24,2,0,74,0,0,0,5,0,0,0,0,0,0,2.1,£4.5m
+1129,Midfielder,Luke Harris,Fulham,2022/23,3,0,10,0,0,0,1,0,0,0,0,0,0,0.2,£4.5m
+1130,Goalkeeper,Illan Meslier,Leeds,2022/23,90,34,3060,0,0,5,67,0,0,0,94,8,0,75.9,£4.5m
+1131,Goalkeeper,Illan Meslier,Leeds,2021/22,106,0,3384,0,0,5,79,0,0,0,143,8,0,108.9,£4.5m
+1132,Goalkeeper,Illan Meslier,Leeds,2020/21,154,0,3150,0,0,11,52,0,1,1,140,20,0,103.7,£4.5m
+1133,Goalkeeper,Karl Darlow,Leeds,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1134,Goalkeeper,Karl Darlow,Leeds,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1135,Goalkeeper,Karl Darlow,Leeds,2021/22,20,0,720,0,0,0,15,0,0,0,24,3,0,15.8,£4.0m
+1136,Goalkeeper,Lucas Estella Perri,Leeds,2018/19,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1137,Defender,Jayden Bogle,Leeds,2023/24,63,32,2787,3,3,3,79,0,1,0,0,0,0,103.7,£4.5m
+1138,Defender,Jayden Bogle,Leeds,2020/21,39,0,1107,2,0,2,20,0,0,0,0,0,0,57.0,£4.5m
+1139,Defender,Pascal Struijk,Leeds,2022/23,66,26,2198,2,2,4,52,0,0,0,0,4,0,102.9,£4.5m
+1140,Defender,Pascal Struijk,Leeds,2021/22,35,0,2050,1,1,1,53,0,0,0,0,0,1,80.8,£4.5m
+1141,Defender,Pascal Struijk,Leeds,2020/21,71,0,2072,1,0,7,32,0,0,0,0,2,0,80.1,£4.5m
+1142,Defender,Sam Byram,Leeds,2021/22,20,0,1023,0,0,2,27,0,0,0,0,0,0,39.7,£4.0m
+1143,Defender,Sam Byram,Leeds,2019/20,32,0,1292,0,0,3,23,0,0,0,0,2,0,60.2,£4.0m
+1144,Defender,Sam Byram,Leeds,2018/19,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1145,Defender,Joe Rodon,Leeds,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1146,Defender,Joe Rodon,Leeds,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1147,Defender,Joe Rodon,Leeds,2021/22,3,0,87,0,0,0,3,0,0,0,0,0,0,2.0,£4.0m
+1148,Midfielder,Brenden Aaronson,Leeds,2022/23,83,28,2365,1,4,5,58,0,0,0,0,0,0,141.9,£5.5m
+1149,Midfielder,Wilfried Gnonto,Leeds,2022/23,55,14,1346,2,4,4,28,0,0,0,0,6,0,84.9,£5.5m
+1150,Midfielder,Daniel James,Leeds,2022/23,45,7,802,2,1,1,18,0,0,0,0,2,0,49.6,£5.5m
+1151,Midfielder,Daniel James,Leeds,2021/22,91,0,2489,4,5,5,51,0,0,0,0,2,1,148.1,£5.5m
+1152,Midfielder,Daniel James,Leeds,2020/21,43,0,907,3,1,4,7,0,0,0,0,1,0,61.5,£5.5m
+1153,Midfielder,Ethan Ampadu,Leeds,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1154,Midfielder,Ethan Ampadu,Leeds,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1155,Midfielder,Ethan Ampadu,Leeds,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1156,Midfielder,Sam Greenwood,Leeds,2022/23,30,3,410,1,2,0,11,0,0,0,0,1,0,41.6,£5.0m
+1157,Midfielder,Sam Greenwood,Leeds,2021/22,15,0,231,0,2,0,5,0,0,0,0,0,0,13.9,£5.0m
+1158,Midfielder,Sam Greenwood,Leeds,2020/21,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1159,Midfielder,Joe Gelhardt,Leeds,2022/23,20,1,201,0,2,0,3,0,0,0,0,0,0,19.4,£4.5m
+1160,Midfielder,Joe Gelhardt,Leeds,2021/22,43,0,733,2,4,1,25,0,0,0,0,3,0,67.2,£4.5m
+1161,Midfielder,Joe Gelhardt,Leeds,2020/21,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1162,Midfielder,Darko Gyabi,Leeds,2022/23,1,0,7,0,0,0,0,0,0,0,0,0,0,2.5,£4.5m
+1163,Forward,Patrick Bamford,Leeds,2022/23,70,18,1510,4,5,1,31,0,0,0,0,3,0,99.6,£5.0m
+1164,Forward,Patrick Bamford,Leeds,2021/22,28,0,557,2,2,0,14,0,0,0,0,2,0,47.9,£5.0m
+1165,Forward,Patrick Bamford,Leeds,2020/21,194,0,3052,17,11,10,50,0,0,0,0,26,0,274.6,£5.0m
+1166,Forward,Mateo Joseph Fernández-Regatillo,Leeds,2022/23,3,0,24,0,0,0,0,0,0,0,0,0,0,2.2,£5.0m
+1167,Forward,Lukas Nmecha,Leeds,2017/18,2,0,14,0,0,0,0,0,0,0,0,0,0,0.3,£5.0m
+1168,Goalkeeper,Freddie Woodman,Liverpool,2021/22,9,0,360,0,0,0,12,0,0,1,10,0,0,9.0,£4.0m
+1169,Goalkeeper,Freddie Woodman,Liverpool,2019/20,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1170,Goalkeeper,Freddie Woodman,Liverpool,2018/19,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1171,Defender,Amara Nallo,Liverpool,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1172,Defender,Amara Nallo,Liverpool,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1173,Defender,Rhys Williams,Liverpool,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1174,Defender,Rhys Williams,Liverpool,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1175,Defender,Rhys Williams,Liverpool,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1176,Defender,Calvin Ramsay,Liverpool,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1177,Midfielder,Ben Doak,Liverpool,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1178,Midfielder,Ben Doak,Liverpool,2023/24,1,0,13,0,0,0,0,0,0,0,0,0,0,0.1,£5.0m
+1179,Midfielder,Ben Doak,Liverpool,2022/23,2,0,23,0,0,0,1,0,0,0,0,0,0,1.2,£5.0m
+1180,Midfielder,Stefan Bajčetić Maquieira,Liverpool,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1181,Midfielder,Stefan Bajčetić Maquieira,Liverpool,2023/24,1,0,25,0,0,0,2,0,0,0,0,0,0,0.8,£4.5m
+1182,Midfielder,Stefan Bajčetić Maquieira,Liverpool,2022/23,22,6,522,1,0,3,4,0,0,0,0,0,0,22.8,£4.5m
+1183,Midfielder,James McConnell,Liverpool,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1184,Midfielder,James McConnell,Liverpool,2023/24,3,0,3,0,0,0,0,0,0,0,0,0,0,0.1,£4.5m
+1185,Midfielder,Tyler Morton,Liverpool,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1186,Midfielder,Tyler Morton,Liverpool,2021/22,1,0,65,0,0,0,1,0,0,0,0,0,0,0.6,£4.5m
+1187,Midfielder,Trey Nyoni,Liverpool,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1188,Midfielder,Trey Nyoni,Liverpool,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1189,Goalkeeper,James Trafford,Man City,2023/24,70,28,2520,0,0,2,62,0,0,0,106,5,0,90.7,£5.0m
+1190,Goalkeeper,James Trafford,Man City,2020/21,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1191,Goalkeeper,Marcus Bettinelli,Man City,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1192,Goalkeeper,Marcus Bettinelli,Man City,2023/24,-1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1193,Goalkeeper,Marcus Bettinelli,Man City,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1194,Goalkeeper,Elyh Harrison,Man Utd,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1195,Goalkeeper,Tom Heaton,Man Utd,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1196,Goalkeeper,Tom Heaton,Man Utd,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1197,Goalkeeper,Tom Heaton,Man Utd,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1198,Goalkeeper,Dermot Mee,Man Utd,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1199,Goalkeeper,Dermot Mee,Man Utd,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1200,Midfielder,Jayce Fitzgerald,Man Utd,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1201,Midfielder,Jack Fletcher,Man Utd,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1202,Midfielder,Sékou Koné,Man Utd,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1203,Midfielder,Jack Moorhouse,Man Utd,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1204,Forward,Ethan Wheatley,Man Utd,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1205,Forward,Ethan Wheatley,Man Utd,2023/24,3,0,13,0,0,0,0,0,0,0,0,0,0,0.2,£4.5m
+1206,Goalkeeper,Mark Gillespie,Newcastle,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1207,Goalkeeper,Mark Gillespie,Newcastle,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1208,Goalkeeper,Mark Gillespie,Newcastle,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1209,Goalkeeper,Odysseas Vlachodimos,Newcastle,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1210,Goalkeeper,Odysseas Vlachodimos,Newcastle,2023/24,12,5,450,0,0,1,12,0,0,0,10,0,0,11.2,£4.0m
+1211,Goalkeeper,Aaron Ramsdale,Newcastle,2024/25,97,30,2700,0,0,3,66,0,0,2,125,11,0,98.3,£5.0m
+1212,Goalkeeper,Aaron Ramsdale,Newcastle,2023/24,20,6,540,0,0,2,5,0,0,0,9,0,0,7.3,£5.0m
+1213,Goalkeeper,Aaron Ramsdale,Newcastle,2022/23,143,38,3420,0,0,14,43,0,0,0,94,9,0,76.5,£5.0m
+1214,Defender,Jamaal Lascelles,Newcastle,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1215,Defender,Jamaal Lascelles,Newcastle,2023/24,46,13,1077,1,0,5,15,0,0,0,0,3,0,33.8,£4.5m
+1216,Defender,Jamaal Lascelles,Newcastle,2022/23,3,2,214,0,0,0,5,0,0,0,0,0,0,5.4,£4.5m
+1217,Defender,Alex Murphy,Newcastle,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1218,Defender,Alex Murphy,Newcastle,2023/24,2,0,11,0,0,0,0,0,0,0,0,0,0,0.3,£4.0m
+1219,Defender,Harrison Ashby,Newcastle,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1220,Defender,Harrison Ashby,Newcastle,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1221,Defender,Harrison Ashby,Newcastle,2021/22,1,0,6,0,0,0,1,0,0,0,0,0,0,0.3,£4.0m
+1222,Defender,Miodrag Pivaš,Newcastle,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1223,Midfielder,Isaac Hayden,Newcastle,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1224,Midfielder,Isaac Hayden,Newcastle,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1225,Midfielder,Isaac Hayden,Newcastle,2021/22,28,0,1000,1,0,0,25,0,0,0,0,3,0,28.3,£4.5m
+1226,Midfielder,Garang Kuol,Newcastle,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1227,Midfielder,Garang Kuol,Newcastle,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1228,Midfielder,Garang Kuol,Newcastle,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1229,Midfielder,Joe White,Newcastle,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1230,Midfielder,Joe White,Newcastle,2023/24,3,0,12,0,0,0,0,0,0,0,0,0,0,0.1,£4.5m
+1231,Midfielder,Joe White,Newcastle,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1232,Forward,Sean Neave,Newcastle,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1233,Goalkeeper,Carlos Miguel dos Santos Pereira,Nott'm Forest,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1234,Goalkeeper,Matt Turner,Nott'm Forest,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1235,Goalkeeper,Matt Turner,Nott'm Forest,2023/24,41,17,1530,0,0,2,28,0,0,0,55,0,0,37.9,£4.0m
+1236,Goalkeeper,Matt Turner,Nott'm Forest,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1237,Goalkeeper,Angus Gunn,Nott'm Forest,2021/22,31,0,810,0,0,1,22,0,0,1,35,3,0,30.6,£4.0m
+1238,Goalkeeper,Angus Gunn,Nott'm Forest,2020/21,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1239,Goalkeeper,Angus Gunn,Nott'm Forest,2019/20,29,0,900,0,0,2,25,0,0,0,30,3,0,22.1,£4.0m
+1240,Defender,Omar Richards,Nott'm Forest,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1241,Defender,Omar Richards,Nott'm Forest,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1242,Defender,Omar Richards,Nott'm Forest,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1243,Defender,Zach Abbott,Nott'm Forest,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1244,Midfielder,Lewis O'Brien,Nott'm Forest,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1245,Midfielder,Lewis O'Brien,Nott'm Forest,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1246,Midfielder,Lewis O'Brien,Nott'm Forest,2022/23,22,6,578,1,0,1,14,0,0,0,0,0,0,21.1,£5.0m
+1247,Goalkeeper,Simon Moore,Sunderland,2020/21,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1248,Goalkeeper,Simon Moore,Sunderland,2019/20,3,0,180,0,0,0,6,0,0,0,5,0,0,2.8,£4.0m
+1249,Goalkeeper,Simon Moore,Sunderland,2013/14,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1250,Defender,Aji Alese,Sunderland,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1251,Defender,Dennis Cirkin,Sunderland,2019/20,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1252,Defender,Leo Fuhr Hjelde,Sunderland,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1253,Defender,Leo Fuhr Hjelde,Sunderland,2021/22,2,0,148,0,0,0,5,0,0,0,0,0,0,6.1,£4.0m
+1254,Defender,Niall Huggins,Sunderland,2020/21,1,0,37,0,0,0,0,0,0,0,0,0,0,0.6,£4.0m
+1255,Defender,Arthur Masuaku,Sunderland,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1256,Defender,Arthur Masuaku,Sunderland,2021/22,29,0,645,1,1,1,12,0,0,0,0,3,0,27.5,£4.0m
+1257,Defender,Arthur Masuaku,Sunderland,2020/21,42,0,1006,0,2,4,15,0,0,0,0,4,0,45.0,£4.0m
+1258,Midfielder,Patrick Roberts,Sunderland,2019/20,3,0,24,0,0,0,2,0,0,0,0,0,0,0.5,£5.5m
+1259,Midfielder,Patrick Roberts,Sunderland,2015/16,1,0,5,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+1260,Midfielder,Patrick Roberts,Sunderland,2013/14,1,0,46,0,0,0,4,0,0,0,0,0,0,0.0,£5.5m
+1261,Midfielder,Romaine Mundle,Sunderland,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1262,Midfielder,Ian Poveda-Ocampo,Sunderland,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1263,Midfielder,Ian Poveda-Ocampo,Sunderland,2020/21,14,0,344,0,0,0,5,0,0,0,0,0,0,21.8,£5.0m
+1264,Midfielder,Pierre Ekwah Elimby,Sunderland,2021/22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1265,Midfielder,Granit Xhaka,Sunderland,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1266,Midfielder,Granit Xhaka,Sunderland,2022/23,153,36,2992,7,8,13,35,0,0,0,0,15,0,194.8,£5.0m
+1267,Midfielder,Granit Xhaka,Sunderland,2021/22,60,0,2327,1,2,6,38,0,0,0,0,3,1,118.2,£5.0m
+1268,Defender,Ashley Phillips,Spurs,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1269,Defender,Ashley Phillips,Spurs,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1270,Midfielder,Manor Solomon,Spurs,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.5m
+1271,Midfielder,Manor Solomon,Spurs,2023/24,14,2,196,0,2,0,2,0,0,0,0,2,0,28.0,£5.5m
+1272,Midfielder,Manor Solomon,Spurs,2022/23,44,4,560,4,0,0,11,0,0,0,0,1,0,43.4,£5.5m
+1273,Midfielder,Bryan Gil Salvatierra,Spurs,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1274,Midfielder,Bryan Gil Salvatierra,Spurs,2023/24,12,2,200,0,0,0,11,0,0,0,0,0,0,15.9,£5.0m
+1275,Midfielder,Bryan Gil Salvatierra,Spurs,2022/23,9,2,146,0,1,1,1,0,0,0,0,0,0,8.5,£5.0m
+1276,Midfielder,Yang Min-hyeok,Spurs,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1277,Midfielder,Callum Olusesi,Spurs,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1278,Midfielder,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,Spurs,2023/24,91,31,2698,4,1,9,46,0,0,0,0,8,0,124.5,£5.5m
+1279,Midfielder,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,Spurs,2022/23,83,35,3108,3,0,9,43,0,1,0,0,5,0,105.5,£5.5m
+1280,Goalkeeper,Wes Foderingham,West Ham,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1281,Goalkeeper,Wes Foderingham,West Ham,2023/24,70,29,2648,0,0,1,79,0,1,0,133,7,0,97.7,£4.0m
+1282,Goalkeeper,Wes Foderingham,West Ham,2020/21,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1283,Goalkeeper,Krisztián Hegyi,West Ham,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1284,Goalkeeper,Mads Hermansen,West Ham,2024/25,63,27,2385,0,0,1,58,0,0,1,103,1,0,82.8,£4.5m
+1285,Defender,Nayef Aguerd,West Ham,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1286,Defender,Nayef Aguerd,West Ham,2023/24,36,21,1857,1,0,2,44,0,0,0,0,0,1,64.4,£4.5m
+1287,Defender,Nayef Aguerd,West Ham,2022/23,58,17,1594,2,0,5,28,0,0,0,0,5,0,61.4,£4.5m
+1288,Defender,Kyle Walker-Peters,West Ham,2024/25,54,33,2918,0,3,2,77,153,0,0,0,3,0,114.4,£4.5m
+1289,Defender,Kyle Walker-Peters,West Ham,2022/23,56,30,2650,1,0,3,58,0,0,0,0,2,0,91.9,£4.5m
+1290,Defender,Kyle Walker-Peters,West Ham,2021/22,82,0,2630,1,3,6,49,0,0,0,0,7,0,128.0,£4.5m
+1291,Midfielder,George Earthy,West Ham,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1292,Midfielder,George Earthy,West Ham,2023/24,8,0,33,1,0,0,0,0,0,0,0,0,0,6.9,£4.5m
+1293,Forward,Callum Marshall,West Ham,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1294,Forward,Callum Wilson,West Ham,2024/25,19,2,355,0,0,0,7,15,0,0,0,0,0,12.1,£6.0m
+1295,Forward,Callum Wilson,West Ham,2023/24,69,9,981,9,1,6,15,0,0,0,0,4,0,103.2,£6.0m
+1296,Forward,Callum Wilson,West Ham,2022/23,157,21,1870,18,6,10,16,0,0,0,0,20,0,200.9,£6.0m
+1297,Defender,Hugo Bueno López,Wolves,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1298,Defender,Hugo Bueno López,Wolves,2023/24,29,7,727,0,0,2,16,0,1,0,0,0,0,29.0,£4.5m
+1299,Defender,Hugo Bueno López,Wolves,2022/23,41,16,1307,0,1,3,29,0,0,0,0,3,0,57.2,£4.5m
+1300,Defender,Ki-Jana Hoever,Wolves,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1301,Defender,Ki-Jana Hoever,Wolves,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1302,Defender,Ki-Jana Hoever,Wolves,2021/22,14,0,306,0,0,1,5,0,0,0,0,0,0,7.1,£4.0m
+1303,Defender,Bastien Meupiyou Menadjou,Wolves,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.0m
+1304,Midfielder,Tawanda Chirewa,Wolves,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1305,Midfielder,Tawanda Chirewa,Wolves,2023/24,8,1,138,0,0,0,2,0,0,0,0,0,0,6.6,£4.5m
+1306,Midfielder,Tom Edozie,Wolves,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1307,Midfielder,Enso González Medina,Wolves,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1308,Midfielder,Enso González Medina,Wolves,2023/24,1,0,1,0,0,0,0,0,0,0,0,0,0,0.1,£4.5m
+1309,Midfielder,Joe Hodge,Wolves,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1310,Midfielder,Joe Hodge,Wolves,2023/24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1311,Midfielder,Joe Hodge,Wolves,2022/23,5,1,172,0,0,0,5,0,0,0,0,0,0,6.1,£4.5m
+1312,Forward,Fábio Soares Silva,Wolves,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1313,Forward,Fábio Soares Silva,Wolves,2023/24,8,3,259,0,0,1,8,0,0,0,0,0,0,16.9,£5.0m
+1314,Forward,Fábio Soares Silva,Wolves,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1315,Forward,Saša Kalajdžić,Wolves,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£5.0m
+1316,Forward,Saša Kalajdžić,Wolves,2023/24,24,1,158,2,0,1,2,0,0,0,0,4,0,20.7,£5.0m
+1317,Forward,Saša Kalajdžić,Wolves,2022/23,1,1,45,0,0,0,0,0,0,0,0,0,0,0.7,£5.0m
+1318,Forward,Leon Chiwome,Wolves,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1319,Forward,Leon Chiwome,Wolves,2023/24,5,2,173,0,0,0,4,0,0,0,0,0,0,2.2,£4.5m
+1320,Forward,Nathan Fraser,Wolves,2024/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
+1321,Forward,Nathan Fraser,Wolves,2023/24,7,1,183,0,0,1,3,0,0,0,0,0,0,8.6,£4.5m
+1322,Forward,Nathan Fraser,Wolves,2022/23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,£4.5m
