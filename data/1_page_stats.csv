@@ -1,0 +1,85 @@
+,season,name,role,club,games-started,minutes-played,clean-sheets,goals-conceded,defensive-contribution,bonus,ict-index,saves,assists,penalties-saved,points,red-cards,own-goals,goals-scored,current-price
+0,2024/25,Mohamed Salah,Midfielder,Liverpool,38,3374,15,40,136,55,476.0,0,18,0,344,0,0,29,£14.5m
+1,2023/24,Mohamed Salah,Midfielder,Liverpool,28,2531,8,30,0,24,346.0,0,12,0,211,0,0,18,£14.5m
+2,2022/23,Mohamed Salah,Midfielder,Liverpool,37,3290,13,45,0,23,365.6,0,13,0,239,0,0,19,£14.5m
+3,2024/25,Bryan Mbeumo,Midfielder,Man Utd,38,3415,9,55,273,29,340.8,0,9,0,236,0,0,20,£8.0m
+4,2023/24,Bryan Mbeumo,Midfielder,Man Utd,22,1957,5,31,0,12,170.1,0,7,0,127,0,0,9,£8.0m
+5,2022/23,Bryan Mbeumo,Midfielder,Man Utd,36,2905,10,39,0,19,239.5,0,9,0,150,0,0,9,£8.0m
+6,2024/25,Cole Palmer,Midfielder,Chelsea,36,3193,10,41,171,35,338.0,0,10,0,214,0,0,15,£10.5m
+7,2023/24,Cole Palmer,Midfielder,Chelsea,29,2617,7,46,0,32,327.8,0,13,0,244,0,0,22,£10.5m
+8,2022/23,Cole Palmer,Midfielder,Chelsea,2,358,1,4,0,0,31.9,0,1,0,19,0,0,0,£10.5m
+9,2024/25,Alexander Isak,Forward,Newcastle,34,2758,12,41,89,36,292.7,0,6,0,211,0,0,23,£10.5m
+10,2023/24,Alexander Isak,Forward,Newcastle,27,2253,7,41,0,23,229.3,0,4,0,172,0,0,21,£10.5m
+11,2022/23,Alexander Isak,Forward,Newcastle,17,1520,4,20,0,18,145.2,0,2,0,100,0,0,10,£10.5m
+12,2024/25,Chris Wood,Forward,Nott'm Forest,35,2958,15,37,96,41,205.6,0,3,0,200,0,0,20,£7.5m
+13,2023/24,Chris Wood,Forward,Nott'm Forest,20,1801,2,34,0,22,167.4,0,1,0,131,0,0,14,£7.5m
+14,2022/23,Chris Wood,Forward,Nott'm Forest,9,807,4,9,0,7,39.3,0,0,0,53,0,0,3,£7.5m
+15,2024/25,Jarrod Bowen,Forward,West Ham,34,2974,8,50,211,21,271.9,0,11,0,193,0,0,13,£8.0m
+16,2023/24,Jarrod Bowen,Forward,West Ham,34,3020,5,63,0,14,247.8,0,6,0,182,0,0,16,£8.0m
+17,2022/23,Jarrod Bowen,Forward,West Ham,36,3232,9,50,0,9,241.8,0,9,0,145,0,0,6,£8.0m
+18,2024/25,Ollie Watkins,Forward,Aston Villa,31,2593,10,40,78,32,223.8,0,8,0,186,0,0,16,£9.0m
+19,2023/24,Ollie Watkins,Forward,Aston Villa,37,3222,7,56,0,29,302.8,0,18,0,228,0,0,19,£9.0m
+20,2022/23,Ollie Watkins,Forward,Aston Villa,36,3129,13,40,0,25,256.7,0,8,0,175,0,0,15,£9.0m
+21,2024/25,Yoane Wissa,Forward,Brentford,34,2921,9,45,138,32,242.4,0,6,0,185,0,0,18,£7.5m
+22,2023/24,Yoane Wissa,Forward,Brentford,29,2488,11,40,0,15,173.2,0,4,0,131,0,0,12,£7.5m
+23,2022/23,Yoane Wissa,Forward,Brentford,16,1587,7,17,0,6,96.8,0,4,0,111,0,0,7,£7.5m
+24,2024/25,Luis Díaz Marulanda,Midfielder,Liverpool,28,2393,15,21,158,21,246.4,0,7,0,183,0,0,13,£8.0m
+25,2023/24,Luis Díaz Marulanda,Midfielder,Liverpool,32,2625,7,33,0,9,264.6,0,7,0,142,0,0,8,£8.0m
+26,2022/23,Luis Díaz Marulanda,Midfielder,Liverpool,11,991,4,11,0,7,85.0,0,2,0,62,0,0,4,£8.0m
+27,2024/25,Erling Haaland,Forward,Man City,31,2736,10,38,73,26,281.8,0,3,0,181,0,0,22,£14.0m
+28,2023/24,Erling Haaland,Forward,Man City,29,2553,11,25,0,29,303.3,0,8,0,217,0,0,27,£14.0m
+29,2022/23,Erling Haaland,Forward,Man City,33,2767,13,26,0,40,358.1,0,9,0,272,0,0,36,£14.0m
+30,2024/25,Matheus Santos Carneiro da Cunha,Midfielder,Man Utd,29,2596,7,54,200,41,272.2,0,7,0,178,0,0,15,£8.0m
+31,2023/24,Matheus Santos Carneiro da Cunha,Midfielder,Man Utd,29,2438,6,46,0,15,206.4,0,7,0,135,0,0,12,£8.0m
+32,2022/23,Matheus Santos Carneiro da Cunha,Midfielder,Man Utd,12,961,5,12,0,6,45.1,0,0,0,39,0,0,2,£8.0m
+33,2024/25,Bruno Borges Fernandes,Midfielder,Man Utd,35,3017,10,47,359,28,300.8,0,12,0,174,2,0,8,£9.0m
+34,2023/24,Bruno Borges Fernandes,Midfielder,Man Utd,35,3118,7,52,0,24,351.3,0,9,0,166,0,0,10,£9.0m
+35,2022/23,Bruno Borges Fernandes,Midfielder,Man Utd,37,3317,18,39,0,23,359.3,0,9,0,176,0,0,8,£9.0m
+36,2024/25,Antoine Semenyo,Midfielder,Bournemouth,36,3202,11,41,267,14,267.8,0,7,0,165,0,0,11,£7.0m
+37,2023/24,Antoine Semenyo,Midfielder,Bournemouth,25,2099,8,33,0,14,166.8,0,4,0,107,0,0,8,£7.0m
+38,2022/23,Antoine Semenyo,Midfielder,Bournemouth,2,250,0,6,0,1,10.7,0,0,0,18,0,0,1,£7.0m
+39,2024/25,Morgan Rogers,Midfielder,Aston Villa,37,3115,10,40,193,15,214.3,0,11,0,161,0,0,8,£7.0m
+40,2023/24,Morgan Rogers,Midfielder,Aston Villa,8,636,2,13,0,0,44.5,0,1,0,35,0,0,3,£7.0m
+41,2024/25,Jacob Murphy,Midfielder,Newcastle,31,2356,11,31,168,11,185.6,0,13,0,159,0,0,8,£6.5m
+42,2023/24,Jacob Murphy,Midfielder,Newcastle,14,1184,5,21,0,4,110.0,0,8,0,82,0,0,3,£6.5m
+43,2022/23,Jacob Murphy,Midfielder,Newcastle,14,1230,3,12,0,2,98.9,0,2,0,78,0,0,4,£6.5m
+44,2024/25,Justin Kluivert,Midfielder,Bournemouth,29,2339,13,29,138,14,212.0,0,6,0,158,0,0,12,£7.0m
+45,2023/24,Justin Kluivert,Midfielder,Bournemouth,26,1910,11,23,0,2,126.4,0,1,0,100,0,0,7,£7.0m
+46,2024/25,Jordan Pickford,Goalkeeper,Everton,38,3420,12,44,0,15,107.0,122,1,2,158,0,0,0,£5.5m
+47,2023/24,Jordan Pickford,Goalkeeper,Everton,38,3420,13,51,0,22,101.3,121,0,0,153,0,1,0,£5.5m
+48,2022/23,Jordan Pickford,Goalkeeper,Everton,37,3330,8,57,0,10,102.0,124,1,1,124,0,0,0,£5.5m
+49,2024/25,Alex Iwobi,Midfielder,Fulham,35,2981,6,45,227,16,243.0,0,6,0,156,0,0,9,£6.5m
+50,2023/24,Alex Iwobi,Midfielder,Fulham,27,2331,7,41,0,9,175.9,0,2,0,102,0,0,5,£6.5m
+51,2022/23,Alex Iwobi,Midfielder,Fulham,38,3379,9,56,0,9,201.3,0,8,0,126,0,0,2,£6.5m
+52,2024/25,Morgan Gibbs-White,Midfielder,Nott'm Forest,34,2806,13,34,227,18,210.6,0,11,0,154,1,0,7,£7.5m
+53,2023/24,Morgan Gibbs-White,Midfielder,Nott'm Forest,35,3156,5,59,0,13,235.6,0,12,0,142,0,0,5,£7.5m
+54,2022/23,Morgan Gibbs-White,Midfielder,Nott'm Forest,36,3151,8,61,0,11,221.8,0,12,0,145,0,0,5,£7.5m
+55,2024/25,Joško Gvardiol,Defender,Man City,36,3278,13,41,233,15,185.0,0,0,0,153,0,0,5,£6.0m
+56,2023/24,Joško Gvardiol,Defender,Man City,26,2327,9,23,0,12,129.7,0,2,0,123,0,0,4,£6.0m
+57,2024/25,Anthony Elanga,Midfielder,Newcastle,31,2496,12,35,135,15,199.8,0,11,0,153,0,0,6,£7.0m
+58,2023/24,Anthony Elanga,Midfielder,Newcastle,25,2424,2,47,0,5,159.2,0,9,0,119,0,0,5,£7.0m
+59,2022/23,Anthony Elanga,Midfielder,Newcastle,5,417,2,2,0,0,28.7,0,1,0,23,0,0,0,£7.0m
+60,2024/25,Leandro Trossard,Midfielder,Arsenal,28,2546,11,27,158,18,202.1,0,8,0,152,1,0,8,£7.0m
+61,2023/24,Leandro Trossard,Midfielder,Arsenal,18,1633,12,10,0,11,169.5,0,2,0,138,0,0,12,£7.0m
+62,2022/23,Leandro Trossard,Midfielder,Arsenal,26,2237,8,38,0,8,225.2,0,13,0,154,0,0,8,£7.0m
+63,2024/25,Jean-Philippe Mateta,Forward,Crystal Palace,33,2642,9,37,114,27,187.3,0,2,0,150,0,0,14,£7.5m
+64,2023/24,Jean-Philippe Mateta,Forward,Crystal Palace,25,2274,8,44,0,22,191.9,0,7,0,165,0,0,16,£7.5m
+65,2022/23,Jean-Philippe Mateta,Forward,Crystal Palace,6,748,3,10,0,3,42.5,0,0,0,41,0,0,2,£7.5m
+66,2024/25,Matz Sels,Goalkeeper,Nott'm Forest,38,3420,13,46,0,11,96.7,120,1,0,150,0,0,0,£5.0m
+67,2023/24,Matz Sels,Goalkeeper,Nott'm Forest,16,1440,1,27,0,1,30.3,37,0,0,34,0,0,0,£5.0m
+68,2024/25,Kevin Schade,Midfielder,Brentford,26,2281,10,34,161,12,183.3,0,4,0,149,0,0,11,£7.0m
+69,2023/24,Kevin Schade,Midfielder,Brentford,3,327,1,5,0,2,26.2,0,2,0,33,0,0,2,£7.0m
+70,2022/23,Kevin Schade,Midfielder,Brentford,7,723,3,7,0,0,39.8,0,1,0,29,0,0,0,£7.0m
+71,2024/25,Ismaïla Sarr,Midfielder,Crystal Palace,30,2708,10,39,190,14,215.9,0,7,0,149,0,0,8,£6.5m
+72,2021/22,Ismaïla Sarr,Midfielder,Crystal Palace,0,1862,2,40,0,9,118.0,0,2,0,81,0,0,5,£6.5m
+73,2019/20,Ismaïla Sarr,Midfielder,Crystal Palace,0,2023,6,35,0,7,142.2,0,7,0,107,0,0,5,£6.5m
+74,2024/25,Eberechi Eze,Midfielder,Crystal Palace,31,2588,10,34,204,15,222.4,0,8,0,148,0,0,8,£7.5m
+75,2023/24,Eberechi Eze,Midfielder,Crystal Palace,24,2054,8,28,0,11,228.7,0,5,0,136,0,0,11,£7.5m
+76,2022/23,Eberechi Eze,Midfielder,Crystal Palace,30,2631,9,35,0,21,217.0,0,5,0,159,0,0,10,£7.5m
+77,2024/25,Raúl Jiménez Rodríguez,Forward,Fulham,30,2486,7,37,153,26,199.7,0,3,0,147,0,0,12,£6.5m
+78,2023/24,Raúl Jiménez Rodríguez,Forward,Fulham,18,1390,4,29,0,13,95.1,0,0,0,72,1,0,7,£6.5m
+79,2022/23,Raúl Jiménez Rodríguez,Forward,Fulham,8,839,2,18,0,0,46.7,0,2,0,29,0,0,0,£6.5m
+80,2024/25,Mitoma Kaoru,Midfielder,Brighton,28,2597,6,40,168,12,210.7,0,5,0,145,0,0,10,£6.5m
+81,2023/24,Mitoma Kaoru,Midfielder,Brighton,15,1485,1,27,0,7,134.0,0,7,0,74,0,0,3,£6.5m
+82,2022/23,Mitoma Kaoru,Midfielder,Brighton,24,2311,8,35,0,11,200.4,0,9,0,138,0,0,7,£6.5m
+83,2024/25,Nikola Milenković,Defender,Nott'm Forest,37,3330,13,45,310,2,127.2,0,2,0,145,0,0,5,£5.5m
