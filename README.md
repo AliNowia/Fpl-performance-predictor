@@ -34,6 +34,6 @@ input: <your-input>
 ## Checklist (todo list)
 - ✅ Web-scraping (collect data from site)
 - ⏸️ Preprocessing
-- ⏸️ Feature Engineering
 - ⏸️ Machine learning model
+
 
