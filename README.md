@@ -6,6 +6,8 @@ This data is players' performance in the last 3 seasons (24/25, 23/24, 22/23) wi
 
 Machine learning model is not yet integrated but will be soon.
 
+🔴 The scraping scripts (app.py and functions.py) work only before the season starts, so they will work after the current season ends.
+
 ## Prerequisites
 
 - Python
@@ -36,6 +38,7 @@ input: <your-input>
 - ✅ Preprocessing
 - ✅ Dashboard
 - ⏸️ Machine learning model
+
 
 
 
